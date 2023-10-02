@@ -12,5 +12,12 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <div>
+    <div style="display: flex; align-items: center;">
+      <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width: 100px; margin-right: 20px;">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </div>
+    <!-- 其他出版物信息，例如作者、日期、链接等 -->
+  </div>
+  <div style="clear: both;"></div> <!-- 清除浮动以避免样式问题 -->
 {% endfor %}
