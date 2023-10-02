@@ -5,19 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  <div>
-    <div style="display: flex; align-items: center;">
-      <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width: 100px; margin-right: 20px;">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<ol class="bibliography">
+{% for publication in site.data.publications %}
+  <li>
+    <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <img src="{{ publication.image }}" class="teaser img-fluid z-depth-1">
+        <abbr class="badge">arXiv</abbr>
+      </div>
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="{{ publication.paperurl }}">{{ publication.title }}</a></div>
+        <div class="author"><strong>{{ publication.authors | join: ', ' }}</strong></div>
+        <div class="periodical"><em>{{ publication.venue }}</em>, {{ publication.date | date: "%b. %Y" }}</div>
+        <div class="links">
+          <a href="{{ publication.paperurl }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        </div>
+      </div>
     </div>
-    <!-- 其他出版物信息，例如作者、日期、链接等 -->
-  </div>
-  <div style="clear: both;"></div> <!-- 清除浮动以避免样式问题 -->
+  </li>
 {% endfor %}
+</ol>
