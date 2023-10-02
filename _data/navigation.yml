@@ -13,6 +13,9 @@ main:
   - title: "Experience"
     url: /talks/    
 
+  - title: "Speech"
+    url: /speech/    
+    
   # - title: "Teaching"
   #   url: /teaching/    
     
