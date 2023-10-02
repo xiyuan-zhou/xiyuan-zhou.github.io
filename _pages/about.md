@@ -1,4 +1,4 @@
-![image](https://github.com/xiyuan-zhou/xiyuan-zhou.github.io/assets/106441278/6d64fa4c-1bdb-47f4-a62c-c25a97a5f13f)---
+---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
