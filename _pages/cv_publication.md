@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 <li>
   <div class="pub-row" style="display: flex; align-items: center;">
 
