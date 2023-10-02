@@ -79,81 +79,42 @@ analytics:
 
 
 # Site Author
-# author:
-#   name             : name: "<span style='font-size: 24px;'>Xiyuan Zhou 周茜缘</span>"
-#   avatar           : "xiyuanzhou_profile.png"
-#   bio              : "Undergraduate in Financial Engineering"
-#   location         : "Shenzhen, Guangdong"
-#   employer         : "CUHKSZ"
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "https://scholar.google.com/citations?hl=en&user=CbMyJykAAAAJ"
-#   email            :
-#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "academicpages"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#   lastfm           :
-#   linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # http://stackoverflow.com/users/123456/username
-#   steam            :
-#   tumblr           :
-#   twitter          : "replacethistwitterhandle"
-#   vine             :
-#   weibo            :
-#   xing             :
-#   youtube          :
-#   wikipedia        :
-# Site Author
 author:
-  name: "<span style='font-size: 24px;'>Xiyuan Zhou 周茜缘</span>"
-  avatar: "xiyuanzhou_profile.png"
-  bio: "Undergraduate in Financial Engineering"
-  location: "Shenzhen, Guangdong"
-  employer: "CUHKSZ"
-  school_link: "https://www.yourschool.edu" # 学校的超链接
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?hl=en&user=CbMyJykAAAAJ"
-  email:
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri:
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
-  github: "academicpages"
-  google_plus:
-  keybase:
-  instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
-  pinterest:
-  soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
-  steam:
-  tumblr:
-  twitter: "replacethistwitterhandle"
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
-
+  name             : name: "<span style='font-size: 24px;'>Xiyuan Zhou \n周茜缘</span>"
+  avatar           : "xiyuanzhou_profile.png"
+  bio              : "Undergraduate in Financial Engineering"
+  location         : 
+  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CbMyJykAAAAJ"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 # Reading Files
 include:
