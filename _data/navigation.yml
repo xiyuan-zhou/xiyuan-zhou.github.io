@@ -7,7 +7,8 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /year-archive/
+    url: /posts/
+    # url: /year-archive/
 
   - title: "Experience"
     url: /talks/    
