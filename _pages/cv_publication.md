@@ -15,7 +15,7 @@ Publications
   <div class="pub-row" style="display: flex; align-items: center;">
 
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWS1pERtHKZhox6nvAXK8QONrShHKeQQloQ&usqp=CAU" class="teaser img-fluid z-depth-1">
+      <img src="2023rating" class="teaser img-fluid z-depth-1">
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
@@ -37,7 +37,7 @@ Publications
   <div class="pub-row" style="display: flex; align-items: center;">
 
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42484-023-00115-2/MediaObjects/42484_2023_115_Fig5_HTML.png?" class="teaser img-fluid z-depth-1">
+      <img src="https://github.com/xiyuan-zhou/xiyuan-zhou.github.io/edit/master/" class="teaser img-fluid z-depth-1">
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
