@@ -1,0 +1,13 @@
+---
+title: "2022 Carbon Rating Report of China’s 100 Oversea Listed Companies"
+collection: talks
+type: "Report"
+permalink: /talks/2014-02-01-talk-2
+venue: "2022 Global Forum on Sustainable Development"
+date: 2021-06-17
+location: "Executive Board, Shenzhen, China"
+---
+
+[PDF here](https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf)
+
+The report begins with an exploration of the significance of carbon emissions reporting for listed companies and the capital markets. It introduces the relevant policy requirements for carbon emissions disclosure by securities exchanges and related institutions both domestically and internationally, along with international standards for carbon measurement and the concept of ESG (Environmental, Social, and Governance) investment.
