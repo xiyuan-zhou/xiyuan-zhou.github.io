@@ -29,6 +29,6 @@ Awards and Honors
 Publications
 ======
 *  Y. Cao, **X. Zhou**, X. Fei, H. Zhao, W. Liu, and J. Zhao, “Linear-layer-enhanced quantum long short-term memory for carbon price forecasting,” Quantum Machine Intelligence, vol. 5, no. 2, pp. 1–12, 2023. [📄](https://link.springer.com/article/10.1007/s42484-023-00115-2)
-* “2023 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2023 Global Forum on Sustainable Development (**Executive Board**) [⏬](http://side-lab.com.cn:3100/)
-* “2022 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2022 Global Forum on Sustainable Development (**Executive Board**) [📕](https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf) 
+* “2023 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2023 Global Forum on Sustainable Development (**Executive Board**) [📄](http://side-lab.com.cn:3100/)
+* “2022 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2022 Global Forum on Sustainable Development (**Executive Board**) [📄](https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf) 
   
