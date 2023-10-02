@@ -41,7 +41,7 @@ Publications
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBKPhWaqU2FuC03B7OANSe45ksqMKeFNSc8Z-RR2QCZI7l045ieE_1J0jp4BHrSYaC0o&usqp=CAU" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
