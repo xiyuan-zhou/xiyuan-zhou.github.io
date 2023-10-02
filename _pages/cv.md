@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Financial Engineering, The Chinese University of Hong Kong, Shenzhen, 2024
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of The Chinese University of Hong Kong, Shenzhen, 2024 (expected)
+  * Major: Financial Engineering - FinTech
+  * Minor: Mathematics and Applied Mathematics (Not yet declared)
 
-Work experience
+Awards and Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [2021-2023] Dean’s List Honor of School of Management and Economics
+* [2022-2023] Undergraduate Research Award
+* [2023] Postgraduate Group National Outstanding Award (Top Award) - China National College Students Competition on Energy Economics
+* [2023] First Prize & Green Angel Excellent Award - China Forum on PRME - Youth Forum Speech Competition (Top Award)
+* [2022] National Second Prize (Top 6) - CCF “Sinan Cup” Quantum Algorithms
+* [2022] Undergraduate Group National Outstanding Award (Top Award) - China National College Students Competition on Energy Economics
+* [2022] Meritorious Winner - Mathematical Contest in Modeling
+* [2021] Master’s List Awards Scheme of Muse College
 
 Publications
 ======
@@ -42,18 +32,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
