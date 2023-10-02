@@ -1,4 +1,3 @@
-<div style="border: 1px solid #ccc; padding: 10px;">
 ---
 layout: archive
 title: "CV"
@@ -12,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Financial Engineering, The Chinese University of Hong Kong, Shenzhen, 2024
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
@@ -58,4 +57,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-</div>
