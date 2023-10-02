@@ -62,15 +62,12 @@ Publications
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <abbr class="badge">arXXiv</abbr>
       <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">2022 Carbon Rating Report of China’s 100 Oversea Listed Companies</a></div>
       <div class="author"><strong>Executive Board</strong></div>
-      <div class="periodical"><em>023 Global Forum on Sustainable Development, Jun. 2022.</em></div>
+      <div class="periodical"><em>2023 Global Forum on Sustainable Development, Jun. 2022.</em></div>
       <div class="links">
         <a href="https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://side.cuhk.edu.cn/article/398" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Forum</a>
-        <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-        <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
       </div>
     </div>
   </div>
