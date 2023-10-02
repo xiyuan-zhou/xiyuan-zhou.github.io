@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+  /* 去除列表项的标号圆点 */
+  li {
+    list-style-type: none;
+  }
+</style>
+
 <li>
   <div class="pub-row" style="display: flex; align-items: center;">
 
@@ -51,24 +58,24 @@ redirect_from:
   </div>
 </li>
 
-
-<div class="pub-row" style="display: flex; align-items: center;">
-
-  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-    <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/2022rating.png" class="teaser img-fluid z-depth-1">
-
-  </div>
-
-  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-    <div class="title"><a href="https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf">2022 Carbon Rating Report of China’s 100 Oversea Listed Companies</a></div>
-    <div class="author"><strong>Executive Board</strong></div>
-    <div class="periodical"><em>2022 Global Forum on Sustainable Development, Jun. 2022.</em></div>
-    <div class="links">
-      <a href="https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://side.cuhk.edu.cn/article/398" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Forum</a>
-      <a href="https://news.cctv.com/2022/06/18/ARTIX57bW6JvW7LOkELAYuBy220618.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+  
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/2022rating.png" class="teaser img-fluid z-depth-1">
+  
+    </div>
+  
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf">2022 Carbon Rating Report of China’s 100 Oversea Listed Companies</a></div>
+      <div class="author"><strong>Executive Board</strong></div>
+      <div class="periodical"><em>2022 Global Forum on Sustainable Development, Jun. 2022.</em></div>
+      <div class="links">
+        <a href="https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://side.cuhk.edu.cn/article/398" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Forum</a>
+        <a href="https://news.cctv.com/2022/06/18/ARTIX57bW6JvW7LOkELAYuBy220618.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
+      </div>
     </div>
   </div>
-</div>
-
-
+<li>  
+  
