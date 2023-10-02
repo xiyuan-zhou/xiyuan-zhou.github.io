@@ -1,3 +1,13 @@
+---
+permalink: /
+title: " "
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About Me
 
 I am a senior undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), majoring in [Financial Engineering - FinTech](https://sme.cuhk.edu.cn/en/page/72) and minoring in Mathematics and Applied Mathematics. I am on track to complete my degree in 2024. During my academic journey, I have been consistently recognized with Dean's List honors and have received the Undergraduate Research Assistant Award for my contributions to research.
