@@ -111,17 +111,27 @@ blockquote {
 }
 
 /* links */
-
 a {
-  &:focus {
-    @extend %tab-focus;
-  }
-
-  &:hover,
-  &:active {
-    outline: 0;
-  }
+    /* 其他样式属性 */
+    color: #0000FF; /* 将颜色更改为深蓝色，使用十六进制颜色码 */
+    /* 其他样式属性 */
 }
+
+a:hover,
+a:active {
+    /* 鼠标悬停或激活时的样式 */
+    color: #FF0000; /* 可以设置不同的颜色，例如红色 */
+}
+// a {
+//   &:focus {
+//     @extend %tab-focus;
+//   }
+
+//   &:hover,
+//   &:active {
+//     outline: 0;
+//   }
+// }
 
 /* code */
 
