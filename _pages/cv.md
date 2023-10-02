@@ -1,3 +1,4 @@
+<div style="border: 1px solid #ccc; padding: 10px;">
 ---
 layout: archive
 title: "CV"
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+</div>
