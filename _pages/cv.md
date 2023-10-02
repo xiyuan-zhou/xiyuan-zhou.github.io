@@ -22,7 +22,7 @@ Awards and Honors
 * [2023] [Postgraduate Group National Outstanding Award (Top Award)](https://sme.cuhk.edu.cn/article/2311) - China National College Students Competition on Energy Economics
 * [2023] [First Prize & Green Angel Excellent Award](https://sme.cuhk.edu.cn/article/2304) - China Forum on PRME - Youth Forum Speech Competition (Top Award)
 * [2022] [National Second Prize (Top 6)](https://contest.originqc.com.cn/news/6) - CCF "Sinan Cup" Quantum Algorithms
-* [2022] Undergraduate Group National Outstanding Award (Top Award)](https://mp.weixin.qq.com/s?__biz=MzA4NzYzNzQyMA==&mid=2652501555&idx=2&sn=854066da629bde66af007b74b975398c&chksm=8bdb3af0bcacb3e6ab8b8ca46454df73b45175c4c47122a5b38a510a5ea6a61a995f719ec0cc&scene=27) - China National College Students Competition on Energy Economics
+* [2022] [Undergraduate Group National Outstanding Award (Top Award)](https://mp.weixin.qq.com/s?__biz=MzA4NzYzNzQyMA==&mid=2652501555&idx=2&sn=854066da629bde66af007b74b975398c&chksm=8bdb3af0bcacb3e6ab8b8ca46454df73b45175c4c47122a5b38a510a5ea6a61a995f719ec0cc&scene=27) - China National College Students Competition on Energy Economics
 * [2022] Meritorious Winner - Mathematical Contest in Modeling
 * [2021] Master’s List Awards Scheme of Muse College
 
