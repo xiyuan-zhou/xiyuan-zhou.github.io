@@ -12,20 +12,11 @@ I am very fortunate to be advised by [Prof. Junhua Zhao](https://scholar.google.
 - Energy Policy
 
 ## Awards
-- **China National College Students Competition on Energy Economics** *(May 2023)*
-  - Postgraduate Group National Outstanding Award (Top Award)
-
-- **China Forum on PRME - Youth Forum Speech Competition** *(May 2023)*
-  - First Prize & Green Angel Excellent Award (Top Award)
-
-- **CCF "Sinan Cup" Quantum Algorithms** *(Aug 2022)*
-  - National Second Prize (Top 6)
-
-- **China National College Students Competition on Energy Economics** *(May 2022)*
-  - Undergraduate Group National Outstanding Award (Top Award)
-
-- **Mathematical Contest in Modeling** *(May 2022)*
-  - Meritorious Winner
+- [May. 2023] Postgraduate Group National Outstanding Award (Top Award) - China National College Students Competition on Energy Economics
+- [May. 2023] First Prize & Green Angel Excellent Award - China Forum on PRME - Youth Forum Speech Competition (Top Award)
+- [Aug. 2022] National Second Prize (Top 6) - CCF "Sinan Cup" Quantum Algorithms
+- [May. 2022] Undergraduate Group National Outstanding Award (Top Award) - China National College Students Competition on Energy Economics
+- [May. 2022] Meritorious Winner - Mathematical Contest in Modeling
 
 
 Feel free to reach out to me via [Email](mailto:xiyuanzhou1@link.cuhk.edu.cn) for any academic or collaborative inquiries.
