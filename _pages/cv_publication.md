@@ -14,7 +14,13 @@ redirect_from:
   li {
     list-style-type: none;
   }
+
+  /* 添加列表项之间的上下间距 */
+  li + li {
+    margin-top: 2em; /* 两行的间距，你可以根据需要调整 */
+  }
 </style>
+
 
 <li>
   <div class="pub-row" style="display: flex; align-items: center;">
