@@ -13,7 +13,7 @@ redirect_from:
   <div class="pub-row" style="display: flex; align-items: center;">
 
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="https://github.com/xiyuan-zhou/xiyuan-zhou.github.io/blob/master/images/2023rating.png" class="teaser img-fluid z-depth-1">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/2023rating.png" alt="2023 Rating">
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
