@@ -8,6 +8,9 @@ main:
 
   - title: "Experience"
     url: /cv_research/ 
+
+  - title: "Speech"
+    url: /cv_speech/ 
     
   # - title: "Publications"
   #   url: /publications/
@@ -22,8 +25,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Speech"
-    url: /portfolio/
+  # - title: "Speech"
+  #   url: /portfolio/
     
     
   # - title: "Guide"
