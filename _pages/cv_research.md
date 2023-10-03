@@ -31,7 +31,7 @@ redirect_from:
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title"><a href="https://xiyuan-zhou.github.io/talks/2023-08-22-report-2">A paper about carbon emission trading schemes</a></div>
+      <div class="title"><a href="https://xiyuan-zhou.github.io/talks/2023-12-12-paper-4">A paper about carbon emission trading schemes</a></div>
       <div class="author">X. Wang, <strong>X. Zhou</strong>, W. Liu, ..., and J. Zhao</div>
       <div class="periodical"><em>undecided.</em></div>
       <div class="links">
@@ -51,7 +51,7 @@ redirect_from:
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title"><a href="https://xiyuan-zhou.github.io/talks/2023-08-22-report-2">A paper about carbon disclosure</a></div>
+      <div class="title"><a href="https://xiyuan-zhou.github.io/talks/2023-11-11-paper-3">A paper about carbon disclosure</a></div>
       <div class="author"><strong>X. Zhou</strong>, X. Wang, X. Fei, W. Liu, and J. Zhao</div>
       <div class="periodical"><em>undecided.</em></div>
       <div class="links">
@@ -83,7 +83,6 @@ redirect_from:
   </div>
 </li>
 
-
 <li>
   <div class="pub-row" style="display: flex; align-items: center;">
   
@@ -105,7 +104,30 @@ redirect_from:
   </div>
 <li>  
 
-## Machine Learning
+<li>
+  <h2>Machine Learning</h2>
+</li>
+
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/undecided.png" alt="Undecided">
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://xiyuan-zhou.github.io/talks/2023-10-10-paper-2">A paper about QML</a></div>
+      <div class="author"><strong>X. Zhou</strong>, H. Zhao, Y. Cao, ..., and J. Zhao</div>
+      <div class="periodical"><em>undecided.</em></div>
+      <div class="links">
+        <a href="http://side-lab.com.cn:3100/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://www.qiia.org/zh-hans/node/1090" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Forum</a>
+        <a href="https://sfi.cuhk.edu.cn/show-51-1332.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
+      </div>
+    </div>
+  </div>
+</li>
+
 
 <li>
   <div class="pub-row" style="display: flex; align-items: center;">
