@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /cv_publication/
+permalink: /cv_research/
 author_profile: true
 redirect_from:
   - /resume
@@ -30,7 +30,7 @@ redirect_from:
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title"><a href="http://side-lab.com.cn:3100/">2023 Carbon Rating Report of China’s 100 Oversea Listed Companies</a></div>
+      <div class="title"><a href="https://xiyuan-zhou.github.io/talks/2023-08-22-report-2">2023 Carbon Rating Report of China’s 100 Oversea Listed Companies</a></div>
       <div class="author"><strong>Executive Board</strong></div>
       <div class="periodical"><em>2023 Global Forum on Sustainable Development, Aug. 2023.</em></div>
       <div class="links">
