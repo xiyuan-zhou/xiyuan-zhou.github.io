@@ -16,8 +16,8 @@ main:
   #   url: /posts/
     # url: /year-archive/
 
-  - title: "Experience"
-    url: /talks/    
+  # - title: "Experience"
+  #   url: /talks/    
     
   # - title: "Teaching"
   #   url: /teaching/    
