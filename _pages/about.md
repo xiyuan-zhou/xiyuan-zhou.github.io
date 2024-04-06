@@ -15,7 +15,7 @@ I am profoundly honored to have been conducting my research under the guidance o
 
 我是香港中文大学（深圳）的一名大四本科生，主修金融工程-金融科技，辅修数学与应用数学。计划在2024年完成我的学位。
 
-我深感荣幸能够从大一开始，就在[赵俊华教授](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en)的主导下进行我的研究，他的宝贵指导和深刻洞察对我的学术旅程和成长至关重要。同时，我也深深感激[张博辉教授](https://sites.google.com/site/bohuizhang/)，他作为我的导师和学术顾问，提供了至关重要的指导和建议，这些对我的研究深度有着显著的贡献。我想表达我对两位教授在我学术生涯中扮演的重要角色的最深的尊重和感激。
+我深感荣幸能够从大一开始，就在[赵俊华教授](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en)的主导下进行我的研究，他的宝贵指导和深刻洞察对我的学术旅程和成长至关重要。同时，我也深深感激[张博辉教授](https://sites.google.com/site/bohuizhang/)，他作为我的导师和学术顾问，提供了至关重要的指导和建议，这些对我的研究和学习有着巨大帮助。两位教授是我本科阶段最重要的导师，也是我学术旅程的引路人。
 
 ## Research Interests
 - Large Language Model
