@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "About Xiyuan Zhou (周茜缘)"
+excerpt: "About Xiyuan Zhou (周茜缘)"
 author_profile: true
 redirect_from: 
   - /about/
