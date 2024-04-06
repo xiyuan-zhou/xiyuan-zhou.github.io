@@ -13,12 +13,13 @@ Education
 ======
 * Bachelor of The Chinese University of Hong Kong, Shenzhen, 2024 (expected)
   * Major: Financial Engineering - FinTech
-  * Minor: Mathematics and Applied Mathematics (Not yet declared)
+  * Minor: Mathematics and Applied Mathematics
 
 Awards and Honors
 ======
+* [2024] Youth Pioneer & Youth Trainer by Global Alliance of Universities on Climate
+* [2022-2024] Undergraduate Research Award
 * [2021-2023] Dean’s List Honor of School of Management and Economics
-* [2022-2023] Undergraduate Research Award
 * [2023] [Postgraduate Group National Outstanding Award (Top Award)](https://sme.cuhk.edu.cn/article/2311) - China National College Students Competition on Energy Economics
 * [2023] [First Prize & Green Angel Excellent Award](https://sme.cuhk.edu.cn/article/2304) - China Forum on PRME - Youth Forum Speech Competition (Top Award)
 * [2022] [National Second Prize (Top 6)](https://contest.originqc.com.cn/news/6) - CCF "Sinan Cup" Quantum Algorithms
