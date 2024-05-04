@@ -30,14 +30,20 @@ Awards and Honors
 Publications
 ======
 **Journal**
-
+[2024]
 *  **X. Zhou**, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, “Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation,” Energy Conversion and Economics
+[2023]
 *  Y. Cao, **X. Zhou**, X. Fei, H. Zhao, W. Liu, and J. Zhao, “Linear-layer-enhanced quantum long short-term memory for carbon price forecasting,” Quantum Machine Intelligence, vol. 5, no. 2, pp. 1–12, 2023. [📄](https://link.springer.com/article/10.1007/s42484-023-00115-2)
 
  **Conference**
+[2024] 
 *  **X. Zhou**, Y. Cao, Y. Zhong, Y. Cheng, H. Zhao and J. Zhao, “Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study,” Nexus Forum 2024
-*  Y. Li, D. Leng, Y. Cao, H. Zhao, **X. Zhou**, J. Zhao,“Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning,” 2023 7th IEEE Conference on Energy Internet and Energy System Integration
+*  T. Shu, **X. Zhou**, Y. Xie, H. Zhao, X. Chen and R. Wang, “Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN,” 2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)
+[2023]
+*  Y. Li, D. Leng, Y. Cao, H. Zhao, **X. Zhou**, J. Zhao, “Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning,” 2023 7th IEEE Conference on Energy Internet and Energy System Integration
 
  **Report**
+[2023]
 * “2023 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2023 Global Forum on Sustainable Development (**Executive Board**) [📄](http://side-lab.com.cn:3100/)
+[2022]
 * “2022 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2022 Global Forum on Sustainable Development (**Executive Board**) [📄](https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf)
