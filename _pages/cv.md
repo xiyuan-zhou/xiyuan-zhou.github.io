@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of The Chinese University of Hong Kong, Shenzhen, 2024 (expected)
+* Bachelor of The Chinese University of Hong Kong, Shenzhen, 2024
   * Major: Financial Engineering - FinTech
   * Minor: Mathematics and Applied Mathematics
 
@@ -33,6 +33,7 @@ Publications
 
 [2024]
 *  **X. Zhou**, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, “Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation,” Energy Conversion and Economics
+*  X. Fei, H. Zhao, **Zhou, X.**, J. Zhao, T. Shu and F. Wen, “Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition,” Scientific Reports
 
 [2023]
 *  Y. Cao, **X. Zhou**, X. Fei, H. Zhao, W. Liu, and J. Zhao, “Linear-layer-enhanced quantum long short-term memory for carbon price forecasting,” Quantum Machine Intelligence, vol. 5, no. 2, pp. 1–12, 2023. [📄](https://link.springer.com/article/10.1007/s42484-023-00115-2)
@@ -40,11 +41,12 @@ Publications
  **Conference**
 
 [2024] 
+*  **X. Zhou**, H. Zhao, Y. Cheng, Y. Cao, G. Liang, G. Liu and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," arXiv preprint arXiv:2407.05365.[📄](https://arxiv.org/abs/2407.05365)
 *  **X. Zhou**, Y. Cao, Y. Zhong, Y. Cheng, H. Zhao and J. Zhao, “Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study,” Nexus Forum 2024
 *  T. Shu, **X. Zhou**, Y. Xie, H. Zhao, X. Chen and R. Wang, “Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN,” 2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)
 
 [2023]
-*  Y. Li, D. Leng, Y. Cao, H. Zhao, **X. Zhou**, J. Zhao, “Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning,” 2023 7th IEEE Conference on Energy Internet and Energy System Integration
+*  Y. Li, D. Leng, Y. Cao, H. Zhao, **X. Zhou**, J. Zhao, “Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning,” In 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2) (pp. 5183-5189). IEEE.[📄](https://ieeexplore.ieee.org/abstract/document/10512704)
 
  **Report**
  
