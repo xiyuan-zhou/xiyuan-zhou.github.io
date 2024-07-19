@@ -33,7 +33,7 @@ Publications
 
 [2024]
 *  **X. Zhou**, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, “Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation,” Energy Conversion and Economics
-*  X. Fei, H. Zhao, **Zhou, X.**, J. Zhao, T. Shu and F. Wen, “Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition,” Scientific Reports
+*  X. Fei, H. Zhao, **X. Zhou**, J. Zhao, T. Shu and F. Wen, “Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition,” Scientific Reports
 
 [2023]
 *  Y. Cao, **X. Zhou**, X. Fei, H. Zhao, W. Liu, and J. Zhao, “Linear-layer-enhanced quantum long short-term memory for carbon price forecasting,” Quantum Machine Intelligence, vol. 5, no. 2, pp. 1–12, 2023. [📄](https://link.springer.com/article/10.1007/s42484-023-00115-2)
