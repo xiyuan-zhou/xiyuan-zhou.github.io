@@ -17,6 +17,7 @@ Education
 
 Awards and Honors
 ======
+* [2024] Global Climate Innovator Trailblazer by Global Climate Innovation Center
 * [2024] Youth Pioneer & Youth Trainer by Global Alliance of Universities on Climate
 * [2022-2024] Undergraduate Research Award
 * [2021-2023] Dean’s List Honor of School of Management and Economics
@@ -33,7 +34,7 @@ Publications
 
 [2024]
 *  **X. Zhou**, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, “Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation,” Energy Conversion and Economics
-*  X. Fei, H. Zhao, **X. Zhou**, J. Zhao, T. Shu and F. Wen, “Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition,” Scientific Reports
+*  X. Fei, H. Zhao, **X. Zhou**, J. Zhao, T. Shu and F. Wen, “Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition,” Scientific Reports 14, 16991 (2024). [📄](https://www.nature.com/articles/s41598-024-67922-w)
 
 [2023]
 *  Y. Cao, **X. Zhou**, X. Fei, H. Zhao, W. Liu, and J. Zhao, “Linear-layer-enhanced quantum long short-term memory for carbon price forecasting,” Quantum Machine Intelligence, vol. 5, no. 2, pp. 1–12, 2023. [📄](https://link.springer.com/article/10.1007/s42484-023-00115-2)
@@ -43,6 +44,7 @@ Publications
 [2024] 
 *  **X. Zhou**, H. Zhao, Y. Cheng, Y. Cao, G. Liang, G. Liu and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," arXiv preprint arXiv:2407.05365.[📄](https://arxiv.org/abs/2407.05365)
 *  **X. Zhou**, Y. Cao, Y. Zhong, Y. Cheng, H. Zhao and J. Zhao, “Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study,” Nexus Forum 2024
+*  Y. Cheng, **X. Zhou**, H. Zhao, J. Gu, X. Wang and J. Zhao, “Large Language Model for Low-Carbon Energy Transition: Roles and Challenges,” 2024 4th Power System and Green Energy Conference (PSGEC). IEEE, 2024.
 *  T. Shu, **X. Zhou**, Y. Xie, H. Zhao, X. Chen and R. Wang, “Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN,” 2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)
 
 [2023]
