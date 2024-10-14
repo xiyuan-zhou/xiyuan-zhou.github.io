@@ -7,15 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! I am Xiyuan Zhou, and I started my PhD in Electrical and Electronic Engineering at Nanyang Technological University (NTU) in August 2024, under the joint supervision of [Prof. Yan Xu][https://scholar.google.com.au/citations?user=ZAhePQ4AAAAJ&hl=en] from NTU and [Prof. Junhua Zhao](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en) from The Chinese University of Hong Kong, Shenzhen (CUHKSZ). I graduated in May 2024 from CUHKSZ, where I majored in Financial Engineering - FinTech and minored in Mathematics and Applied Mathematics. During my undergraduate studies, I was fortunate to be mentored by [Prof. Junhua Zhao](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en) and [Prof. Bohui Zhang](https://sites.google.com/site/bohuizhang/), who guided me through my research journey starting in 2021. My research interests primarily lie in Artificial Intelligence (AI) and Large Language Models (LLMs), with a special focus on their real-world applications. I am always open to collaboration and discussion, so feel free to reach out to me via email if you are interested in my work.
 
-In August 2024, I enrolled at Nanyang Technological University in Singapore to pursue a Doctorate in Electrical and Electronic Engineering. I hold a Bachelor’s degree from the Chinese University of Hong Kong, Shenzhen, majoring in Financial Engineering - FinTech, with a minor in Mathematics and Applied Mathematics.
+你好！我是周茜缘，于2024年8月进入新加坡南洋理工大学（NTU）攻读电子电气工程博士学位，由NTU的徐岩教授和香港中文大学（深圳）（CUHKSZ）的赵俊华教授联合指导。我于2024年5月毕业于香港中文大学（深圳），本科期间的导师是赵俊华教授和张博辉教授，主修金融工程-金融科技，辅修数学与应用数学。我的研究兴趣主要集中在人工智能（AI）和大型语言模型（LLM），特别关注其在实际应用中的潜力与发展。我非常期待与其他研究者进行合作与交流，如果您对我的工作感兴趣，欢迎通过电子邮件与我联系。
 
-I am profoundly honored to have been conducting my research under the guidance of [Prof. Junhua Zhao](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en) since my freshman year.  His invaluable guidance and deep insights are pivotal to my academic journey and growth. Simultaneously, I am deeply grateful to [Prof. Bohui Zhang](https://sites.google.com/site/bohuizhang/), who serves as my supervisor and academic advisor, providing essential guidance and advice that significantly contributes to the depth of my research. I wish to express my utmost respect and gratitude to both professors for their influential roles.
-
-
-2024年8月，我进入新加坡南洋理工大学攻读电子电气工程博士学位。本科毕业于香港中文大学（深圳），主修金融工程-金融科技，辅修数学与应用数学。
-
-我深感荣幸能够从大一开始，就在[赵俊华教授](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en)的主导下进行我的研究，他的宝贵指导和深刻洞察对我的学术旅程和成长至关重要。同时，我也深深感激[张博辉教授](https://sites.google.com/site/bohuizhang/)，他作为我的导师和学术顾问，提供了至关重要的指导和建议，这些对我的研究和学习有着巨大帮助。两位教授是我本科阶段最重要的导师，也是我学术旅程的引路人。
 
 ## Research Interests
 - Large Language Model
