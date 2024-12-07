@@ -22,11 +22,9 @@ redirect_from:
 </style>
 
 ## Teaching Experience
-Environmental Economics and Policy *(Jan 2024 - May 2024)*  
-- Undergraduate Student Teaching Fellow
 
 **Environmental Economics and Policy (ECO4001)**  
-*Undergraduate Student Teaching Fellow, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)*  *(Jan 2024 - May 2024)*  
+*Undergraduate Student Teaching Fellow, CUHKSZ*  *(Jan 2024 - May 2024)*  
 
 
 
