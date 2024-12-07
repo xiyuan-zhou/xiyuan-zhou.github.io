@@ -21,6 +21,23 @@ redirect_from:
   }
 </style>
 
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/nexus.jpeg" alt="0519">
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://xiyuan-zhou.github.io/portfolio/2023-05-19">Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study</a></div>
+      <div class="author"><strong>Speaker</strong></div>
+      <div class="periodical"><em>Nexus, 2024.</em></div>
+      <div class="links">
+      </div>
+    </div>
+  </div>
+</li>
+
 
 <li>
   <div class="pub-row" style="display: flex; align-items: center;">
