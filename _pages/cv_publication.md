@@ -26,6 +26,27 @@ redirect_from:
   <div class="pub-row" style="display: flex; align-items: center;">
 
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/linear.png" class="teaser img-fluid z-depth-1">
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12122">Carbon market risk estimation using quantum conditional generative adversarial network and amplitude estimation</a></div>
+      <div class="author"><strong>X. Zhou</strong>, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao</div>
+      <div class="periodical"><em>Energy Conversion and Economics, 5(4), 193-210.</em></div>
+      <div class="links">
+        <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12122" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://github.com/TravisCao/L-QLSTM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Tc_tAdhRFoEJ:scholar.google.com/&output=citation&scisdr=ClGnOi-wEIqck78JDaQ:AFWwaeYAAAAAZRsPFaTrRPNe8K0kTDeYIHUEj8Y&scisig=AFWwaeYAAAAAZRsPFe8_iZM9-vUsPheztBoRN54&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
       <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/2023rating.png" alt="2023 Rating">
     </div>
 
