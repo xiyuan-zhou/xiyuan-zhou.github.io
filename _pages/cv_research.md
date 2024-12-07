@@ -22,8 +22,8 @@ redirect_from:
 </style>
 
 ## Teaching Experience
-* Environmental Economics and Policy
-- Undergraduate Student Teaching Fellow  *(Jan 2024 - May 2024)*  
+Environmental Economics and Policy *(Jan 2024 - May 2024)*  
+- Undergraduate Student Teaching Fellow  
 
 
 <!--
