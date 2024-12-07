@@ -38,7 +38,7 @@ Publications
 **Journal**
 
 [2024]
-*  **X. Zhou**, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, “Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation,” Energy Conversion and Economics
+*  **X. Zhou**, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, “Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation,” Energy Conversion and Economics 5 (4), 193-210. [📄](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12122)
 *  X. Fei, H. Zhao, **X. Zhou**, J. Zhao, T. Shu and F. Wen, “Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition,” Scientific Reports 14, 16991 (2024). [📄](https://www.nature.com/articles/s41598-024-67922-w)
 
 [2023]
@@ -49,8 +49,9 @@ Publications
 [2024] 
 *  **X. Zhou**, H. Zhao, Y. Cheng, Y. Cao, G. Liang, G. Liu and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," arXiv preprint arXiv:2407.05365.[📄](https://arxiv.org/abs/2407.05365)
 *  **X. Zhou**, Y. Cao, Y. Zhong, Y. Cheng, H. Zhao and J. Zhao, “Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study,” Nexus Forum 2024
-*  Y. Cheng, **X. Zhou**, H. Zhao, J. Gu, X. Wang and J. Zhao, “Large Language Model for Low-Carbon Energy Transition: Roles and Challenges,” 2024 4th Power System and Green Energy Conference (PSGEC). IEEE, 2024.
-*  T. Shu, **X. Zhou**, Y. Xie, H. Zhao, X. Chen and R. Wang, “Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN,” 2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)
+*  Y. Cheng, **X. Zhou**, H. Zhao, J. Gu, X. Wang and J. Zhao, “Large Language Model for Low-Carbon Energy Transition: Roles and Challenges,” 2024 4th Power System and Green Energy Conference (PSGEC 2024) (pp. 810-816). IEEE.[📄](https://ieeexplore.ieee.org/abstract/document/10721191)
+*  T. Shu, **X. Zhou**, Y. Xie, H. Zhao, X. Chen and R. Wang, “Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN,” 2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024) (pp. 47-52). IEEE.[📄](https://ieeexplore.ieee.org/abstract/document/10604645)
+*  Y. Cheng, H. Zhao, **X. Zhou**,  J. Zhao, Y. Cao, and C. Yang, “GAIA--A Large Language Model for Advanced Power Dispatch,” arXiv preprint arXiv::2408.03847.[📄](https://arxiv.org/abs/2408.03847)
 
 [2023]
 *  Y. Li, D. Leng, Y. Cao, H. Zhao, **X. Zhou**, J. Zhao, “Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning,” In 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2) (pp. 5183-5189). IEEE.[📄](https://ieeexplore.ieee.org/abstract/document/10512704)
