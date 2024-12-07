@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Teaching Experience"
 permalink: /cv_research/
 author_profile: true
 redirect_from:
@@ -21,6 +21,7 @@ redirect_from:
   }
 </style>
 
+<!--
 ## Energy Economy
 
 <li>
@@ -148,4 +149,4 @@ redirect_from:
     </div>
   </div>
 </li>
-  
+-->  
