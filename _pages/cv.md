@@ -33,6 +33,7 @@ Awards and Honors
 * [2022] Meritorious Winner - Mathematical Contest in Modeling
 * [2021] Master’s List Awards Scheme of Muse College
 
+
 Publications
 ======
 **Journal**
@@ -63,3 +64,7 @@ Publications
   
 [2022]
 * “2022 Carbon Rating Report of China’s 100 Oversea Listed Companies,” (REPORT) Published at the 2022 Global Forum on Sustainable Development (**Executive Board**) [📄](https://airs.cuhk.edu.cn/files/2022-06/2022%20Carbon%20Rating%20Report%20of%20China%27s%20100%20Overseas%20Listed%20Companies_0.pdf)
+
+Patents
+======
+* T. Shu, **X. Zhou**, H. Zhao, and J. Feng, “The method, device, and storage medium for cloud microphysical parameterization in numerical weather forecasting models”.
