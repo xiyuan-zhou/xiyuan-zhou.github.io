@@ -25,7 +25,7 @@ redirect_from:
   <div class="pub-row" style="display: flex; align-items: center;">
 
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/nexus.jpeg" alt="0519"  style="width: 100px; height: auto;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/nexus.jpeg" alt="0519"  style="width: 400px; height: auto;">
     </div>
 
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
