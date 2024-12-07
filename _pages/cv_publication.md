@@ -22,6 +22,30 @@ redirect_from:
 </style>
 
 <li>
+  <h2>Large Language Model</h2>
+</li>
+
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/QCGAN-QAE.png" class="teaser img-fluid z-depth-1">
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2407.05365">ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models</a></div>
+      <div class="author"><strong>X. Zhou</strong>, H. Zhao, Y. Cheng, Y. Cao, G. Liang, G. Liu and J. Zhao</div>
+      <div class="periodical"><em>arXiv preprint arXiv:2407.05365.</em></div>
+      <div class="links">
+        <a href="https://arxiv.org/abs/2407.05365" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://github.com/xiyuan-zhou/ElecBench-a-Power-Dispatch-Evaluation-Benchmark-for-Large-Language-Models" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Tc_tAdhRFoEJ:scholar.google.com/&output=citation&scisdr=ClGnOi-wEIqck78JDaQ:AFWwaeYAAAAAZRsPFaTrRPNe8K0kTDeYIHUEj8Y&scisig=AFWwaeYAAAAAZRsPFe8_iZM9-vUsPheztBoRN54&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
   <h2>Machine Learning</h2>
 </li>
 
