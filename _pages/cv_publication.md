@@ -35,7 +35,6 @@ redirect_from:
       <div class="periodical"><em>Energy Conversion and Economics, 5(4), 193-210.</em></div>
       <div class="links">
         <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12122" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://github.com/TravisCao/L-QLSTM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Tc_tAdhRFoEJ:scholar.google.com/&output=citation&scisdr=ClGnOi-wEIqck78JDaQ:AFWwaeYAAAAAZRsPFaTrRPNe8K0kTDeYIHUEj8Y&scisig=AFWwaeYAAAAAZRsPFe8_iZM9-vUsPheztBoRN54&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       </div>
     </div>
