@@ -37,6 +37,7 @@ Awards and Honors
 Publications
 ======
 **Journal**
+
 [2025]
 *  Y. Cheng, H. Zhao, **X. Zhou**,  J. Zhao, Y. Cao, and C. Yang, “GAIA--A Large Language Model for Advanced Power Dispatch,”  Scientific Reports.[📄](https://arxiv.org/abs/2408.03847)
 
