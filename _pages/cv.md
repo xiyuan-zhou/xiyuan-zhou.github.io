@@ -73,3 +73,14 @@ Publications
 Patents
 ======
 * T. Shu, **X. Zhou**, H. Zhao, and J. Feng, “The method, device, and storage medium for cloud microphysical parameterization in numerical weather forecasting models”.
+
+
+Academic Services
+======
+ **Journal Reviewer**
+ * Quantum Information Processing
+ * EPJ Quantum Technology
+
+ **Conference Reviewer**
+ * IEEE Power & Energy Society General Meeting (PESGM)
+ * ECE Forum
