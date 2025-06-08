@@ -80,6 +80,7 @@ Patents
 Academic Services
 ======
  **Journal Reviewer**
+ * Scientific Reports
  * Quantum Information Processing
  * EPJ Quantum Technology
 
