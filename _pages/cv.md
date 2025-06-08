@@ -53,7 +53,8 @@ Publications
  **Conference**
 
 [2025] 
-🏆 **(Best Paper Session)** **X. Zhou**, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," 2025 IEEE Power & Energy Society General Meeting (PESGM). [📄](https://arxiv.org/abs/2407.05365)
+
+*  🏆**(Best Paper Session)** **X. Zhou**, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," 2025 IEEE Power & Energy Society General Meeting (PESGM). [📄](https://arxiv.org/abs/2407.05365)
 *  **X. Zhou**, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, “Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study,” 2025 IEEE Power & Energy Society General Meeting (PESGM).
 
 [2024]  
