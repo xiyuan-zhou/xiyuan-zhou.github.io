@@ -17,7 +17,8 @@ Education
   * Honors: First Class Honors
 
 * PhD: Nanyang Technological University, 2024–Present
-  * Program: Electrical and Electronic Engineering (EEE)   
+  * Program: Electrical and Electronic Engineering (EEE)
+  * CGPA: 4.92/5
 
 Awards and Honors
 ======
@@ -39,6 +40,7 @@ Publications
 **Journal**
 
 [2025]
+*  Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, **X. Zhou**, W. Tu, L. Sun, and J. A. Lai, “Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation,” ACS Catalysis, vol. 15, pp. 9706–9716, 2025.[📄](https://pubs.acs.org/doi/full/10.1021/acscatal.5c01667?casa_token=eEXz7dL8ekkAAAAA%3AkTFF1GhwfZd6Z_KHRUamQFdEO-QbjoUDAMeBmsVfHRfqRMKuc9PEoorx8SQOdz2OliWzvLf4rDw49gNUEQ)
 *  Y. Cheng, H. Zhao, **X. Zhou**,  J. Zhao, Y. Cao, and C. Yang, “GAIA--A Large Language Model for Advanced Power Dispatch,”  Scientific Reports.[📄](https://arxiv.org/abs/2408.03847)
 
 [2024]
@@ -51,7 +53,7 @@ Publications
  **Conference**
 
 [2025] 
-*  **X. Zhou**, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," 2025 IEEE Power & Energy Society General Meeting (PESGM). [📄](https://arxiv.org/abs/2407.05365)
+🏆 **(Best Paper Session)** **X. Zhou**, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," 2025 IEEE Power & Energy Society General Meeting (PESGM). [📄](https://arxiv.org/abs/2407.05365)
 *  **X. Zhou**, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, “Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study,” 2025 IEEE Power & Energy Society General Meeting (PESGM).
 
 [2024]  
