@@ -5,12 +5,14 @@ excerpt: "About Xiyuan Zhou (周茜缘)"
 author_profile: true
 ---
 
+<span id="top"></span>
 <!-- ===== TOP SECTION: PHOTO + INTRO + CONTACT ===== -->
 <div align="center" style="margin-bottom:2rem;">
   <img src="/images/profile.png" width="120" class="avatar" style="border-radius:50%;box-shadow:0 2px 16px #dce7fa;">
   <h1 style="margin:1rem 0 0.5rem 0; color:#2056c4">Xiyuan Zhou (周茜缘)</h1>
-  <p style="color:#2056c4;font-weight:600;">Ph.D. Student, Nanyang Technological University, Singapore (CS/AI/Power Systems)</p>
-  <p style="font-size:1.1em;max-width:480px;margin:0 auto 1em auto;">I am passionate about artificial intelligence, large language models, quantum computing applications, and sustainable energy. I strive to use innovative techniques to tackle real-world problems in power and carbon markets, bridging theory and industry practice.</p>
+  <p style="color:#2056c4;font-weight:600;">Ph.D. Student, School of Electrical and Electronic Engineering (EEE), Nanyang Technological University, Singapore</p>
+  <p style="margin:0.3rem 0 0.9rem 0; font-size:0.98em; color:#3b4a6b;">Advisors (Ph.D.): Prof. Yan Xu, Prof. Junhua Zhao · Undergraduate Advisors: Prof. Junhua Zhao, Prof. Bohui Zhang</p>
+  <p style="font-size:1.1em;max-width:480px;margin:0 auto 1em auto;">I am passionate about large language models (LLMs), AI for Energy (AI4E), power systems, and energy markets. I strive to use innovative techniques to tackle real-world problems in power and carbon markets, bridging theory and industry practice.</p>
   <div style="margin-top:1rem;font-size:1.15em">
     <a href="mailto:xiyuan002@e.ntu.edu.sg" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">💌 Email</a> |
     <a href="https://github.com/xiyuanzhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🐙 GitHub</a>
@@ -19,16 +21,13 @@ author_profile: true
 </div>
 
 ## <span id="news" style="color:#2056c4">NEWS</span>
-- 2025-12: Presented two papers at IEEE PESGM 2025 on ElecBench and LLM-based scenario generation.
-- 2025-11: ACS Catalysis paper on photothermal ethane dehydrogenation published.
-- 2024-11: GAIA — A Large Language Model for Advanced Power Dispatch accepted to Scientific Reports.
-- 2024-10: Gave an invited talk on LLMs for Power Systems and Carbon Markets.
-- 2024-09: Our LLM-based scenario generation work selected for PESGM 2025.
-- 2024-07: Released ElecBench arXiv preprint and open-sourced the benchmark code.
-- 2024-06: Scientific Reports paper on quantum fault diagnosis published.
-- 2024-03: Energy Conversion and Economics article on quantum cGAN for carbon risk published.
-- 2023-10: QMI article on carbon price forecasting with quantum LSTM published.
-- 2023-08: Paper on strategic bidding in joint electricity–carbon market presented at IEEE EI2.
+<div class="news-box">
+- 2025-09: Elected President of NTU EEE Graduate Students’ Club (GSC).
+- 2025-07: ElecBench received Best Paper at IEEE PESGM 2025.
+- 2025-05: ACS Catalysis paper accepted: photothermal ethane dehydrogenation (hydrogen spillover).
+- 2025-02: Two papers accepted to IEEE PESGM 2025 (ElecBench; LLM-based scenario generation).
+- 2025-02: GAIA — A Large Language Model for Advanced Power Dispatch accepted to Scientific Reports.
+</div>
 
 ---
 
@@ -81,9 +80,9 @@ author_profile: true
 
 ## <span style="color:#2056c4">RESEARCH INTERESTS</span>
 - Large Language Models (LLMs)
-- Artificial Intelligence & Machine Learning
-- Quantum Computing & Applications
-- Financial Technology, Carbon Markets, Power Systems
+- AI for Energy (AI4E)
+- Power Systems
+- Energy Markets
 
 ---
 
@@ -101,11 +100,74 @@ author_profile: true
 ---
 
 ## <span id="speech" style="color:#2056c4">SPEECH</span>
-- 2024-10: Invited Talk — Large Language Models for Power Systems and Carbon Markets.
-- 2024-07: Seminar — Benchmarking LLMs for Power Dispatch: ElecBench.
-- 2023-12: Guest Lecture — Quantum Computing Applications in Energy and Finance.
+
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">IEEE PES SG Postgraduate Workshop 2025</div>
+      <div class="author"><strong>Speaker</strong></div>
+      <div class="periodical"><em>National University of Singapore (NUS), 2025-10-17.</em></div>
+      <div class="links">
+        <a href="https://github.com/xiyuan-zhou" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      </div>
+    </div>
+  </div>
+  
+</li>
+
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/nexus.jpeg" alt="nexus"  style="width: 400px; height: auto;">
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study</div>
+      <div class="author"><strong>Speaker</strong></div>
+      <div class="periodical"><em>Nexus, 2024.</em></div>
+      <div class="links">
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="pub-row" style="display: flex; align-items: center;">
+
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/0519.png" alt="0519">
+    </div>
+
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://xiyuan-zhou.github.io/portfolio/2023-05-19">The Path to Sustainable Development of Companies under Dual Carbon Targets</a></div>
+      <div class="author"><strong>Speaker</strong></div>
+      <div class="periodical"><em>UN-PRME Youth Forum, 2023.</em></div>
+      <div class="links">
+        <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Forum</a>
+        <a href="https://sme.cuhk.edu.cn/article/2304" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<p style="margin-top:0.5rem"><a href="/cv_speech/">More speeches →</a></p>
 
 <style>
+/* News scroll box */
+.news-box {
+  max-height: 220px;
+  overflow-y: auto;
+  padding: 12px 14px;
+  background: #f7faff;
+  border: 1px solid #e5edff;
+  border-radius: 10px;
+}
 h1, h2, h3 { color: #2056c4; }
 li b, strong { color: #2056c4; }
 a { color: #2056c4; }
