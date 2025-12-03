@@ -8,14 +8,13 @@ author_profile: true
 <span id="top"></span>
 <!-- ===== TOP SECTION: PHOTO + INTRO + CONTACT ===== -->
 <div align="center" style="margin-bottom:2rem;">
-  <img src="/images/xiyuanzhou_profile.png" width="120" class="avatar" style="border-radius:50%;box-shadow:0 2px 16px #dce7fa;">
   <h1 style="margin:1rem 0 0.5rem 0; color:#2056c4">Xiyuan Zhou (周茜缘)</h1>
   <p style="color:#2056c4;font-weight:600;margin:0.2rem 0 0.6rem 0;">Ph.D. Student @ NTU EEE</p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    I am currently a Ph.D. candidate supervised by <b>Prof. Yan Xu</b> and <b>Prof. Junhua Zhao</b> at the School of Electrical and Electronic Engineering (EEE), <b>Nanyang Technological University (NTU)</b>, Singapore. I am broadly interested in <b>large language models (LLMs)</b>, <b>AI for Energy (AI4E)</b>, <b>power systems</b>, and <b>energy markets</b>, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
+    I am currently a Ph.D. candidate supervised by Prof. Yan Xu and Prof. Junhua Zhao at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    Prior to my Ph.D., I received my <b>B.Eng.</b> in Financial Engineering (<i>First Class Honours</i>) from <b>The Chinese University of Hong Kong, Shenzhen</b>, where I had the opportunity to work with <b>Prof. Junhua Zhao</b> and <b>Prof. Bohui Zhang</b>.
+    Prior to my Ph.D., I received my B.Eng. in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with Prof. Junhua Zhao and Prof. Bohui Zhang.
   </p>
   <div style="margin-top:1rem;font-size:1.15em">
     <a href="mailto:xiyuan002@e.ntu.edu.sg" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">💌 Email</a> |
@@ -27,11 +26,13 @@ author_profile: true
 
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
-- 2025-09: Elected President of NTU EEE Graduate Students’ Club (GSC).
-- 2025-07: ElecBench received Best Paper at IEEE PESGM 2025.
-- 2025-05: ACS Catalysis paper accepted: photothermal ethane dehydrogenation (hydrogen spillover).
-- 2025-02: Two papers accepted to IEEE PESGM 2025 (ElecBench; LLM-based scenario generation).
-- 2025-02: GAIA — A Large Language Model for Advanced Power Dispatch accepted to Scientific Reports.
+  <ul class="news-list">
+    <li>2025-09: Elected President of NTU EEE Graduate Students’ Club (GSC).</li>
+    <li>2025-07: ElecBench received Best Paper at IEEE PESGM 2025.</li>
+    <li>2025-05: ACS Catalysis paper accepted: photothermal ethane dehydrogenation (hydrogen spillover).</li>
+    <li>2025-02: Two papers accepted to IEEE PESGM 2025 (ElecBench; LLM-based scenario generation).</li>
+    <li>2025-02: GAIA — A Large Language Model for Advanced Power Dispatch accepted to Scientific Reports.</li>
+  </ul>
 </div>
 
 ---
@@ -119,13 +120,15 @@ author_profile: true
 <style>
 /* News scroll box */
 .news-box {
-  max-height: 220px;
+  max-height: 160px;
   overflow-y: auto;
   padding: 12px 14px;
   background: #f7faff;
   border: 1px solid #e5edff;
   border-radius: 10px;
 }
+.news-list { margin: 0; padding-left: 18px; }
+.news-box li { margin-bottom: 6px; }
 h1, h2, h3 { color: #2056c4; }
 li b, strong { color: #2056c4; }
 a { color: #2056c4; }
