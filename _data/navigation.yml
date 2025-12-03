@@ -1,33 +1,19 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "News"
+    url: /#news
 
   - title: "Publications"
-    url: /cv_publication/
+    url: /#publications
+
+  - title: "Awards"
+    url: /#awards
 
   - title: "Experience"
-    url: /cv_research/ 
+    url: /#experience
 
   - title: "Speech"
-    url: /cv_speech/ 
-    
-  # - title: "Publications"
-  #   url: /publications/
+    url: /#speech
 
-  # - title: "Research"
-  #   url: /posts/
-    # url: /year-archive/
-
-  # - title: "Experience"
-  #   url: /talks/    
-    
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Speech"
-  #   url: /portfolio/
-    
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "CV"
+    url: /cv/

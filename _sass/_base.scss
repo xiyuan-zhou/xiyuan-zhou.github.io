@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: #2056c4;
 }
 
 h1 {
@@ -113,14 +114,18 @@ blockquote {
 /* links */
 a {
     /* 其他样式属性 */
-    color: #0000FF; /* 将颜色更改为深蓝色，使用十六进制颜色码 */
+    color: #2056c4; /* 将颜色更改为深蓝色，使用十六进制颜色码 */
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.18s;
     /* 其他样式属性 */
 }
 
 a:hover,
 a:active {
     /* 鼠标悬停或激活时的样式 */
-    color: #B509AC; /* 可以设置不同的颜色，例如红色 */
+    color: #1a60b7; /* 可以设置不同的颜色，例如红色 */
+    border-bottom: 1px solid #2056c4;
 }
 // a {
 //   &:focus {
@@ -168,7 +173,7 @@ hr {
   display: block;
   margin: 1em 0;
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 2px solid #2056c4;
 }
 
 /* lists */
@@ -323,4 +328,16 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+.page__content {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 32px #e6efff;
+  padding: 2.5rem 2.5rem;
+  margin: 2.5rem auto;
+}
+img.avatar, .avatar {
+  border-radius: 50%;
+  box-shadow: 0 2px 16px #dce7fa;
 }
