@@ -8,14 +8,19 @@ author_profile: true
 <span id="top"></span>
 <!-- ===== TOP SECTION: PHOTO + INTRO + CONTACT ===== -->
 <div align="center" style="margin-bottom:2rem;">
-  <img src="/images/profile.png" width="120" class="avatar" style="border-radius:50%;box-shadow:0 2px 16px #dce7fa;">
+  <img src="/images/xiyuanzhou_profile.png" width="120" class="avatar" style="border-radius:50%;box-shadow:0 2px 16px #dce7fa;">
   <h1 style="margin:1rem 0 0.5rem 0; color:#2056c4">Xiyuan Zhou (周茜缘)</h1>
-  <p style="color:#2056c4;font-weight:600;">Ph.D. Student, School of Electrical and Electronic Engineering (EEE), Nanyang Technological University, Singapore</p>
-  <p style="margin:0.3rem 0 0.9rem 0; font-size:0.98em; color:#3b4a6b;">Advisors (Ph.D.): Prof. Yan Xu, Prof. Junhua Zhao · Undergraduate Advisors: Prof. Junhua Zhao, Prof. Bohui Zhang</p>
-  <p style="font-size:1.1em;max-width:480px;margin:0 auto 1em auto;">I am passionate about large language models (LLMs), AI for Energy (AI4E), power systems, and energy markets. I strive to use innovative techniques to tackle real-world problems in power and carbon markets, bridging theory and industry practice.</p>
+  <p style="color:#2056c4;font-weight:600;margin:0.2rem 0 0.6rem 0;">Ph.D. Student @ NTU EEE</p>
+  <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
+    I am currently a Ph.D. candidate supervised by <b>Prof. Yan Xu</b> and <b>Prof. Junhua Zhao</b> at the School of Electrical and Electronic Engineering (EEE), <b>Nanyang Technological University (NTU)</b>, Singapore. I am broadly interested in <b>large language models (LLMs)</b>, <b>AI for Energy (AI4E)</b>, <b>power systems</b>, and <b>energy markets</b>, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
+  </p>
+  <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
+    Prior to my Ph.D., I received my <b>B.Eng.</b> in Financial Engineering (<i>First Class Honours</i>) from <b>The Chinese University of Hong Kong, Shenzhen</b>, where I had the opportunity to work with <b>Prof. Junhua Zhao</b> and <b>Prof. Bohui Zhang</b>.
+  </p>
   <div style="margin-top:1rem;font-size:1.15em">
     <a href="mailto:xiyuan002@e.ntu.edu.sg" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">💌 Email</a> |
-    <a href="https://github.com/xiyuanzhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🐙 GitHub</a>
+    <a href="https://github.com/xiyuan-zhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🐙 GitHub</a> |
+    <a href="https://www.linkedin.com/in/xiyuan-zhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🔗 LinkedIn</a>
     <!-- Add Google Scholar URL if available -->
   </div>
 </div>
@@ -71,10 +76,15 @@ author_profile: true
 
 ---
 
-## <span id="education" style="color:#2056c4">EDUCATION</span>
-- <b>Nanyang Technological University, Singapore</b> | Ph.D. in EEE, 2024.8 – Present
-- <b>The Chinese University of Hong Kong, Shenzhen</b> | B.Eng in Financial Engineering (First Class Honours), 2020 – 2024
-  <br>Minor: Mathematics and Applied Mathematics
+## <span id="education" style="color:#2056c4">EDUCATION BACKGROUND</span>
+
+<b>Ph.D.</b>
+<br>Aug 2024 – Present | School of Electrical and Electronic Engineering (EEE) | Nanyang Technological University, Singapore
+<br>Advisor: <b>Prof. Yan Xu</b>, <b>Prof. Junhua Zhao</b>
+
+<br><br><b>B.Eng.</b>
+<br>Sep 2020 – May 2024 | Financial Engineering (First Class Honours) | The Chinese University of Hong Kong, Shenzhen
+<br>Minor: Mathematics and Applied Mathematics
 
 ---
 
@@ -88,7 +98,8 @@ author_profile: true
 
 ## <span id="contact" style="color:#2056c4">CONTACT</span>
 - Email: <a href="mailto:xiyuan002@e.ntu.edu.sg">xiyuan002@e.ntu.edu.sg</a>
-- GitHub: <a href="https://github.com/xiyuanzhou">xiyuanzhou</a>
+- GitHub: <a href="https://github.com/xiyuan-zhou">xiyuanzhou</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/xiyuan-zhou">xiyuan-zhou</a>
 
 ---
 
@@ -101,62 +112,9 @@ author_profile: true
 
 ## <span id="speech" style="color:#2056c4">SPEECH</span>
 
-<li>
-  <div class="pub-row" style="display: flex; align-items: center;">
-
-    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      
-    </div>
-
-    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title">IEEE PES SG Postgraduate Workshop 2025</div>
-      <div class="author"><strong>Speaker</strong></div>
-      <div class="periodical"><em>National University of Singapore (NUS), 2025-10-17.</em></div>
-      <div class="links">
-        <a href="https://github.com/xiyuan-zhou" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      </div>
-    </div>
-  </div>
-  
-</li>
-
-<li>
-  <div class="pub-row" style="display: flex; align-items: center;">
-
-    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/nexus.jpeg" alt="nexus"  style="width: 400px; height: auto;">
-    </div>
-
-    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title">Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study</div>
-      <div class="author"><strong>Speaker</strong></div>
-      <div class="periodical"><em>Nexus, 2024.</em></div>
-      <div class="links">
-      </div>
-    </div>
-  </div>
-</li>
-
-<li>
-  <div class="pub-row" style="display: flex; align-items: center;">
-
-    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="https://raw.githubusercontent.com/xiyuan-zhou/xiyuan-zhou.github.io/master/images/0519.png" alt="0519">
-    </div>
-
-    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title"><a href="https://xiyuan-zhou.github.io/portfolio/2023-05-19">The Path to Sustainable Development of Companies under Dual Carbon Targets</a></div>
-      <div class="author"><strong>Speaker</strong></div>
-      <div class="periodical"><em>UN-PRME Youth Forum, 2023.</em></div>
-      <div class="links">
-        <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Forum</a>
-        <a href="https://sme.cuhk.edu.cn/article/2304" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
-      </div>
-    </div>
-  </div>
-</li>
-
-<p style="margin-top:0.5rem"><a href="/cv_speech/">More speeches →</a></p>
+- 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS).
+- 2024: Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus.
+- 2023-05-19: The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum. <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
 
 <style>
 /* News scroll box */
