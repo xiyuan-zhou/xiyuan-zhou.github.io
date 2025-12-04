@@ -85,7 +85,10 @@ author_profile: true
 
 <!-- unified publications list -->
 <div class="pub-item">
-  <img class="pub-thumb" src="/images/elecbench.png" alt="ElecBench thumbnail">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">PESGM 2025</span>
+    <img class="pub-thumb" src="/images/elecbench.png" alt="ElecBench thumbnail">
+  </div>
   <div class="pub-meta">
     <div class="pub-title"><b>ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models</b></div>
     <div class="pub-authors"><b>X. Zhou</b>, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, J. Zhao</div>
@@ -100,7 +103,10 @@ author_profile: true
   </div>
 </div>
 <div class="pub-item">
-  <img class="pub-thumb" src="/images/scenario%20generation.png" alt="Scenario Generation thumbnail">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">PESGM 2025</span>
+    <img class="pub-thumb" src="/images/scenario%20generation.png" alt="Scenario Generation thumbnail">
+  </div>
   <div class="pub-meta">
     <div class="pub-title"><b>Large Language Model for Power System Scenario Generation Considering Weather Condition</b></div>
     <div class="pub-authors"><b>X. Zhou</b>, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu, J. Zhao</div>
@@ -113,7 +119,10 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <img class="pub-thumb" src="/images/GAIA.png" alt="GAIA thumbnail">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">Scientific Reports</span>
+    <img class="pub-thumb" src="/images/GAIA.png" alt="GAIA thumbnail">
+  </div>
   <div class="pub-meta">
     <div class="pub-title"><b>GAIA – A Large Language Model for Advanced Power Dispatch</b></div>
     <div class="pub-authors">Y. Cheng, H. Zhao, <b>X. Zhou</b>, J. Zhao, Y. Cao, C. Yang</div>
@@ -208,6 +217,8 @@ html { scroll-behavior: smooth; }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
 .pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
+.pub-thumb-wrap { position: relative; display: inline-block; }
+.pub-ribbon { position:absolute; top:8px; left:0; background:#2056c4; color:#fff; font-weight:600; font-size:0.85em; padding:4px 10px 4px 12px; border-top-right-radius:6px; border-bottom-right-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.12); z-index:2; }
 .pub-meta { flex:1; min-width:0; }
 .pub-title { font-size:1.04em; margin-bottom:4px; color:#0f1c36; }
 .pub-authors { color:#31406b; font-size:0.96em; margin-bottom:4px; }
