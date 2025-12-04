@@ -104,12 +104,14 @@ author_profile: true
 <!-- - T. Shu, X. Zhou, Y. Xie, H. Zhao, X. Chen and R. Wang, "Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN," <em>2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)</em> (pp. 47-52). IEEE. 📄 -->
 <!-- - Y. Li, D. Leng, Y. Cao, H. Zhao, X. Zhou, J. Zhao, "Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning," <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em> (pp. 5183-5189). IEEE. 📄 -->
 
+<!-- Reports
 ### Reports
 - "2023 Carbon Rating Report of China’s 100 Oversea Listed Companies," (REPORT) Published at the 2023 Global Forum on Sustainable Development (Executive Board) 📄
 - "2022 Carbon Rating Report of China’s 100 Oversea Listed Companies," (REPORT) Published at the 2022 Global Forum on Sustainable Development (Executive Board) 📄
 
 ### Patents
 - T. Shu, X. Zhou, H. Zhao, and J. Feng, "The method, device, and storage medium for cloud microphysical parameterization in numerical weather forecasting models."
+-->
 
 ---
 
@@ -216,10 +218,10 @@ html { scroll-behavior: smooth; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 @media (min-width:600px) {
   .page__content {
-    max-width:980px; margin: 0 1.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
+    max-width:980px; margin: 0 0.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
   }
 }
 @media (min-width:1200px) {
-  .page__content { max-width:1100px; margin: 0 1.4rem 0 2.8rem; }
+  .page__content { max-width:1100px; margin: 0 0.3rem 0 2.8rem; }
 }
 </style>
