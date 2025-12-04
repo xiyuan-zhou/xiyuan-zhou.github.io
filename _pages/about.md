@@ -28,6 +28,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
+  <img class="pub-thumb" src="/images/scenario%20generation.png" alt="Scenario Generation thumbnail">
   <div class="pub-meta">
     <div class="pub-title"><b>Large Language Model for Power System Scenario Generation Considering Weather Condition</b></div>
     <div class="pub-authors"><b>X. Zhou</b>, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu, J. Zhao</div>
