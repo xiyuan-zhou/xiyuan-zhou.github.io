@@ -192,21 +192,14 @@ html { scroll-behavior: smooth; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
-@media (min-width:600px) {
-  .page .page__content {
-    max-width:none !important; width:auto !important; margin: 0 0.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 1.8rem;
-  }
-}
-@media (min-width:1000px) { .page { max-width: 1600px !important; } }
-/* Override other wrappers that might constrain width (apply globally) */
-.wrap, .archive, .page__inner-wrap, .initial-content { max-width: none !important; width: auto !important; }
-.page { width: auto !important; margin-right: 0.2rem !important; }
-.page__inner-wrap { padding-right: 0 !important; }
-.page__content { width: 100% !important; }
-/* On wide screens, ensure layout uses flex and content fills remaining viewport to the right of sidebar */
+/* Precise layout: keep left/top as-is, shrink only the right gutter */
 @media (min-width: 1000px) {
-  .initial-content { display: block !important; }
-  .layout--single .page { width: auto !important; }
-  .page { margin-left: 2.6rem !important; margin-right: 0.2rem !important; }
+  .initial-content { display: flex !important; align-items: flex-start; }
+  .initial-content .sidebar { flex: 0 0 auto; }
+  .initial-content .page { flex: 1 1 auto !important; max-width: none !important; margin-right: 0.2rem !important; }
+  .initial-content .page .page__inner-wrap { padding-right: 0.2rem !important; }
+  .initial-content .page .page__content {
+    max-width: none !important; width: 100% !important; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 1.6rem;
+  }
 }
 </style>
