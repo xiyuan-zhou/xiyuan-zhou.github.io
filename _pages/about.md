@@ -25,8 +25,6 @@ author_profile: true
     <a href="https://www.linkedin.com/in/xiyuan-zhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🔗 LinkedIn</a>
     <!-- Add Google Scholar URL if available -->
   </div>
-</div>
-
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
@@ -129,6 +127,21 @@ author_profile: true
     <div class="pub-venue"><em>Scientific Reports</em>, 2025</div>
     <div class="pub-links">
       <a href="https://www.nature.com/articles/s41598-025-91940-x" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">ECE 2024</span>
+    <img class="pub-thumb" src="/images/QCGAN.png" alt="QCGAN thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>Carbon market risk estimation using quantum conditional generative adversarial network and amplitude estimation</b></div>
+    <div class="pub-authors"><b>X. Zhou</b>, H. Zhao, Y. Cao, X. Fei, G. Liang, J. Zhao</div>
+    <div class="pub-venue"><em>Energy Conversion and Economics (ECE)</em>, 5(4): 193–210, 2024</div>
+    <div class="pub-links">
+      <a href="https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/enc2.12122" target="_blank">Paper</a>
     </div>
   </div>
 </div>
