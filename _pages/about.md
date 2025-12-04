@@ -76,12 +76,11 @@ author_profile: true
 
 ## <span id="publications" style="color:#2056c4">PUBLICATIONS</span>
 <p class="pub-note">For the full list, please see my <a href="https://scholar.google.com/citations?user=CbMyJykAAAAJ&hl=en" target="_blank">Google Scholar</a>. Below are selected representative works.</p>
-<div class="pub-filters" aria-label="Filter publications">
+<div id="pub-filters" class="pub-filters" aria-label="Filter publications">
   <button type="button" class="pub-filter active" data-filter="all">All</button>
   <button type="button" class="pub-filter" data-filter="LLM">LLM</button>
   <button type="button" class="pub-filter" data-filter="QML">QML</button>
-  <span class="pub-filter-hint">Filter by topic</span>
- </div>
+</div>
 <!-- Begin: Temporarily hide detailed publication list items -->
 <!-- - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄 -->
 <!-- - Y. Cheng, H. Zhao, X. Zhou, J. Zhao, Y. Cao, and C. Yang, "GAIA–A Large Language Model for Advanced Power Dispatch," <em>Scientific Reports</em>. 📄 -->
@@ -251,11 +250,11 @@ author_profile: true
 
 ---
 
-## <span id="speech" style="color:#2056c4">SPEECH</span>
+## <span id="speech" style="color:#2056c4">SPEECHES</span>
 
-- 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS) — Singapore.
-- 2024-05-10: Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus — China, Hong Kong.
-- 2023-05-19: The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum — China, Suzhou. <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
+- 2025-10-17 · IEEE PES SG Postgraduate Workshop 2025, NUS (Singapore)
+- 2024-05-10 · Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus (Hong Kong, China)
+- 2023-05-19 · The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum (Suzhou, China) <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
 
 <style>
 /* News scroll box */
@@ -290,10 +289,10 @@ html { scroll-behavior: smooth; }
 .pub-links a { margin-right:10px; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
-.pub-filters { display:flex; align-items:center; gap:8px; margin:6px 0 10px 0; }
+.pub-filters { display:flex; align-items:center; gap:8px; margin:6px 0 12px 0; position:relative; z-index:3; pointer-events:auto; }
 .pub-filter { border:1px solid #cfe0ff; background:#f4f8ff; color:#2056c4; padding:4px 10px; border-radius:8px; font-weight:600; cursor:pointer; }
 .pub-filter.active { background:#2056c4; color:#fff; border-color:#2056c4; }
-.pub-filter-hint { color:#5a6999; font-size:0.9em; margin-left:6px; }
+.pub-filter-hint { color:#5a6999; font-size:0.9em; margin-left:auto; }
 .pub-item.hidden { display:none; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 </style>
