@@ -118,7 +118,8 @@ author_profile: true
 
 <div class="edu-entry">
   <div class="edu-left">
-    <div class="edu-head"><span class="edu-date">Aug 2024 — Present</span> <strong>Nanyang Technological University, Singapore</strong></div>
+    <div class="edu-date-line">Aug 2024 — Present</div>
+    <div class="edu-school"><strong>Nanyang Technological University, Singapore</strong></div>
     <em>Ph.D. in Electrical and Electronic Engineering (EEE)</em> · GPA: 4.92/5<br>
     Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
   </div>
@@ -126,7 +127,8 @@ author_profile: true
 
 <div class="edu-entry">
   <div class="edu-left">
-    <div class="edu-head"><span class="edu-date">Sep 2020 — May 2024</span> <strong>The Chinese University of Hong Kong, Shenzhen</strong></div>
+    <div class="edu-date-line">Sep 2020 — May 2024</div>
+    <div class="edu-school"><strong>The Chinese University of Hong Kong, Shenzhen</strong></div>
     <em>B.BA in Financial Engineering (First Class Honours)</em><br>
     Minor: Mathematics and Applied Mathematics<br>
     Dean's List · Master's List<br>
@@ -160,8 +162,8 @@ a { color: #2056c4; }
 html { scroll-behavior: smooth; }
 /* Education layout */
 .edu-entry { margin-bottom: 1rem; }
-.edu-head { font-size: 1.02em; margin-bottom: 2px; }
-.edu-date { color:#6b7aa6; margin-right: 10px; }
+.edu-date-line { color:#6b7aa6; font-weight:500; margin-bottom: 2px; }
+.edu-school { font-size: 1.02em; margin-bottom: 2px; }
 .edu-left { margin-left: 0; }
 @media (min-width:600px) {
   .page__content {
