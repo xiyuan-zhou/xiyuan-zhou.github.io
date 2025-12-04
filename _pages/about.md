@@ -76,6 +76,12 @@ author_profile: true
 
 ## <span id="publications" style="color:#2056c4">PUBLICATIONS</span>
 <p class="pub-note">For the full list, please see my <a href="https://scholar.google.com/citations?user=CbMyJykAAAAJ&hl=en" target="_blank">Google Scholar</a>. Below are selected representative works.</p>
+<div class="pub-filters" aria-label="Filter publications">
+  <button type="button" class="pub-filter active" data-filter="all">All</button>
+  <button type="button" class="pub-filter" data-filter="LLM">LLM</button>
+  <button type="button" class="pub-filter" data-filter="QML">QML</button>
+  <span class="pub-filter-hint">Filter by topic</span>
+ </div>
 <!-- Begin: Temporarily hide detailed publication list items -->
 <!-- - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄 -->
 <!-- - Y. Cheng, H. Zhao, X. Zhou, J. Zhao, Y. Cao, and C. Yang, "GAIA–A Large Language Model for Advanced Power Dispatch," <em>Scientific Reports</em>. 📄 -->
@@ -84,7 +90,7 @@ author_profile: true
 <!-- - Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄 -->
 
 <!-- unified publications list -->
-<div class="pub-item">
+<div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
     <span class="pub-ribbon">PESGM 2025</span>
     <img class="pub-thumb" src="/images/elecbench.png" alt="ElecBench thumbnail">
@@ -102,7 +108,7 @@ author_profile: true
     </div>
   </div>
 </div>
-<div class="pub-item">
+<div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
     <span class="pub-ribbon">PESGM 2025</span>
     <img class="pub-thumb" src="/images/scenario%20generation.png" alt="Scenario Generation thumbnail">
@@ -118,7 +124,7 @@ author_profile: true
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
     <span class="pub-ribbon">Scientific Reports</span>
     <img class="pub-thumb" src="/images/GAIA.png" alt="GAIA thumbnail">
@@ -133,7 +139,7 @@ author_profile: true
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" data-topic="QML">
   <div class="pub-thumb-wrap">
     <span class="pub-ribbon">ECE</span>
     <img class="pub-thumb" src="/images/QCGAN.png" alt="QCGAN thumbnail">
@@ -148,8 +154,9 @@ author_profile: true
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" data-topic="QML">
   <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">QMI</span>
     <img class="pub-thumb" src="/images/QLSTM.png" alt="QLSTM thumbnail">
   </div>
   <div class="pub-meta">
@@ -165,6 +172,34 @@ author_profile: true
 <!-- - Y. Cheng, X. Zhou, H. Zhao, J. Gu, X. Wang and J. Zhao, "Large Language Model for Low-Carbon Energy Transition: Roles and Challenges," <em>2024 4th Power System and Green Energy Conference (PSGEC 2024)</em> (pp. 810-816). IEEE. 📄 -->
 <!-- - T. Shu, X. Zhou, Y. Xie, H. Zhao, X. Chen and R. Wang, "Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN," <em>2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)</em> (pp. 47-52). IEEE. 📄 -->
 <!-- - Y. Li, D. Leng, Y. Cao, H. Zhao, X. Zhou, J. Zhao, "Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning," <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em> (pp. 5183-5189). IEEE. 📄 -->
+
+<script>
+  (function(){
+    var filters = document.querySelectorAll('.pub-filter');
+    var items = document.querySelectorAll('.pub-item');
+    function setActive(target){
+      filters.forEach(function(btn){ btn.classList.toggle('active', btn === target); });
+    }
+    function apply(filter){
+      items.forEach(function(it){
+        var topic = it.getAttribute('data-topic') || '';
+        if (filter === 'all' || topic === filter) {
+          it.classList.remove('hidden');
+        } else {
+          it.classList.add('hidden');
+        }
+      });
+    }
+    filters.forEach(function(btn){
+      btn.addEventListener('click', function(){
+        setActive(btn);
+        apply(btn.getAttribute('data-filter'));
+      });
+    });
+    // default state
+    apply('all');
+  })();
+  </script>
 
 <!-- Reports
 ### Reports
@@ -218,9 +253,9 @@ author_profile: true
 
 ## <span id="speech" style="color:#2056c4">SPEECH</span>
 
-- 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS).
-- 2024-05-10: Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus.
-- 2023-05-19: The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum. <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
+- 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS) — Singapore.
+- 2024-05-10: Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus — China, Hong Kong.
+- 2023-05-19: The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum — China, Suzhou. <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
 
 <style>
 /* News scroll box */
@@ -255,5 +290,10 @@ html { scroll-behavior: smooth; }
 .pub-links a { margin-right:10px; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
+.pub-filters { display:flex; align-items:center; gap:8px; margin:6px 0 10px 0; }
+.pub-filter { border:1px solid #cfe0ff; background:#f4f8ff; color:#2056c4; padding:4px 10px; border-radius:8px; font-weight:600; cursor:pointer; }
+.pub-filter.active { background:#2056c4; color:#fff; border-color:#2056c4; }
+.pub-filter-hint { color:#5a6999; font-size:0.9em; margin-left:6px; }
+.pub-item.hidden { display:none; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 </style>
