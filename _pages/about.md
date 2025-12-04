@@ -14,7 +14,7 @@ author_profile: true
     I am currently a Ph.D. candidate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, supervised by <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a> and <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    Prior to my Ph.D., I received my B.Eng. in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
+    Prior to my Ph.D., I received my B.BA in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
   </p>
   <p style="font-size:0.98em;max-width:700px;margin:0.2rem auto 0.6rem auto; color:#3b4a6b; line-height:1.55;">
     I also serve as President of the NTU EEE Graduate Students’ Club (GSC).
@@ -118,21 +118,20 @@ author_profile: true
 
 <div class="edu-entry">
   <div class="edu-left">
-    <strong>Nanyang Technological University, Singapore</strong><br>
+    <div class="edu-head"><span class="edu-date">Aug 2024 — Present</span> <strong>Nanyang Technological University, Singapore</strong></div>
     <em>Ph.D. in Electrical and Electronic Engineering (EEE)</em> · GPA: 4.92/5<br>
     Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
   </div>
-  <div class="edu-right">Aug 2024 — Present</div>
-  </div>
+</div>
 
 <div class="edu-entry">
   <div class="edu-left">
-    <strong>The Chinese University of Hong Kong, Shenzhen</strong><br>
-    <em>B.Eng. in Financial Engineering (First Class Honours)</em><br>
-    Minor: Mathematics and Applied Mathematics · Dean's List · Master's List<br>
+    <div class="edu-head"><span class="edu-date">Sep 2020 — May 2024</span> <strong>The Chinese University of Hong Kong, Shenzhen</strong></div>
+    <em>B.BA in Financial Engineering (First Class Honours)</em><br>
+    Minor: Mathematics and Applied Mathematics<br>
+    Dean's List · Master's List<br>
     Advisors: <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>, <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>
   </div>
-  <div class="edu-right">Sep 2020 — May 2024</div>
 </div>
 
 ---
@@ -159,6 +158,11 @@ h1, h2, h3 { color: #2056c4; }
 li b, strong { color: #2056c4; }
 a { color: #2056c4; }
 html { scroll-behavior: smooth; }
+/* Education layout */
+.edu-entry { margin-bottom: 1rem; }
+.edu-head { font-size: 1.02em; margin-bottom: 2px; }
+.edu-date { color:#6b7aa6; margin-right: 10px; }
+.edu-left { margin-left: 0; }
 @media (min-width:600px) {
   .page__content {
     max-width:820px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.7rem;
