@@ -114,15 +114,26 @@ author_profile: true
 
 ---
 
-## <span id="education" style="color:#2056c4">EDUCATION BACKGROUND</span>
+## <span id="education" style="color:#2056c4">EDUCATION</span>
 
-<b>Ph.D.</b>
-<br>Aug 2024 – Present | School of Electrical and Electronic Engineering (EEE) | Nanyang Technological University, Singapore
-<br>Advisor: <b>Prof. Yan Xu</b>, <b>Prof. Junhua Zhao</b>
+<div class="edu-entry">
+  <div class="edu-left">
+    <strong>Nanyang Technological University, Singapore</strong><br>
+    <em>Ph.D. in Electrical and Electronic Engineering (EEE)</em> · GPA: 4.92/5<br>
+    Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
+  </div>
+  <div class="edu-right">Aug 2024 — Present</div>
+  </div>
 
-<br><br><b>B.Eng.</b>
-<br>Sep 2020 – May 2024 | Financial Engineering (First Class Honours) | The Chinese University of Hong Kong, Shenzhen
-<br>Minor: Mathematics and Applied Mathematics
+<div class="edu-entry">
+  <div class="edu-left">
+    <strong>The Chinese University of Hong Kong, Shenzhen</strong><br>
+    <em>B.Eng. in Financial Engineering (First Class Honours)</em><br>
+    Minor: Mathematics and Applied Mathematics · Dean's List · Master's List<br>
+    Advisors: <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>, <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>
+  </div>
+  <div class="edu-right">Sep 2020 — May 2024</div>
+</div>
 
 ---
 
@@ -135,7 +146,7 @@ author_profile: true
 <style>
 /* News scroll box */
 .news-box {
-  max-height: 160px;
+  max-height: 320px;
   overflow-y: auto;
   padding: 12px 14px;
   background: #f7faff;
