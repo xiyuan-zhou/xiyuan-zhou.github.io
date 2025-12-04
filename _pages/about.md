@@ -135,7 +135,7 @@ author_profile: true
 
 <div class="pub-item">
   <div class="pub-thumb-wrap">
-    <span class="pub-ribbon">ECE 2024</span>
+    <span class="pub-ribbon">ECE</span>
     <img class="pub-thumb" src="/images/QCGAN.png" alt="QCGAN thumbnail">
   </div>
   <div class="pub-meta">
@@ -144,6 +144,20 @@ author_profile: true
     <div class="pub-venue"><em>Energy Conversion and Economics (ECE)</em>, 5(4): 193–210, 2024</div>
     <div class="pub-links">
       <a href="https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/enc2.12122" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-thumb-wrap">
+    <img class="pub-thumb" src="/images/QLSTM.png" alt="QLSTM thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>Linear-layer-enhanced quantum long short-term memory for carbon price forecasting</b></div>
+    <div class="pub-authors">Y. Cao, <b>X. Zhou</b>, X. Fei, H. Zhao, W. Liu, J. Zhao</div>
+    <div class="pub-venue"><em>Quantum Machine Intelligence</em>, 2023</div>
+    <div class="pub-links">
+      <a href="https://link.springer.com/article/10.1007/s42484-023-00115-2" target="_blank">Paper</a>
     </div>
   </div>
 </div>
