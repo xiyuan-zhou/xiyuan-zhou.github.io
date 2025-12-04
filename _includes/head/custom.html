@@ -53,4 +53,12 @@
     background: #f7faff;
     box-shadow: inset 0 -1px 0 #e5edff;
   }
+  /* Global layout overrides for single-column pages: keep left/top, shrink right gutter */
+  @media (min-width: 1000px) {
+    .layout--single .initial-content { display: flex; align-items: flex-start; }
+    .layout--single .initial-content .sidebar { flex: 0 0 auto; }
+    .layout--single .initial-content .page { flex: 1 1 auto; max-width: none; margin-right: 8px; }
+    .layout--single .initial-content .page .page__inner-wrap { padding-right: 8px; }
+    .layout--single .initial-content .page .page__content { max-width: none; }
+  }
 </style>

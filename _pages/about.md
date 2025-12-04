@@ -192,14 +192,4 @@ html { scroll-behavior: smooth; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
-/* Precise layout: keep left/top as-is, shrink only the right gutter */
-@media (min-width: 1000px) {
-  .initial-content { display: flex !important; align-items: flex-start; }
-  .initial-content .sidebar { flex: 0 0 auto; }
-  .initial-content .page { flex: 1 1 auto !important; max-width: none !important; margin-right: 0.2rem !important; }
-  .initial-content .page .page__inner-wrap { padding-right: 0.2rem !important; }
-  .initial-content .page .page__content {
-    max-width: none !important; width: 100% !important; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 1.4rem; margin-right: -1.0rem !important;
-  }
-}
 </style>
