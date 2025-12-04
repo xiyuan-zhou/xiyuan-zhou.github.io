@@ -90,7 +90,13 @@ author_profile: true
     <div class="pub-title"><b>ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models</b></div>
     <div class="pub-authors">X. Zhou, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, J. Zhao</div>
     <div class="pub-venue"><em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em> — <span class="pub-badge">Best Paper Session</span></div>
-    <div class="pub-links"><a href="https://ieeexplore.ieee.org/document/11225826" target="_blank">IEEE Xplore</a></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/document/11225826" target="_blank">Paper</a>
+      <a href="https://ieee-dataport.org/documents/elecbench" target="_blank">Data</a>
+      <a href="https://github.com/xiyuan-zhou/ElecBench-a-Power-Dispatch-Evaluation-Benchmark-for-Large-Language-Models" target="_blank">Code</a>
+      <a href="/assets/pesgm/Elecbench_PESGM2025_PPT.pdf" target="_blank">PPT</a>
+      <a href="/assets/pesgm/Elecbench_PESGM2025_Poster.pdf" target="_blank">Poster</a>
+    </div>
   </div>
 </div>
 - X. Zhou, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, "Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study," <em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em>.
@@ -128,7 +134,7 @@ author_profile: true
   <div class="edu-left">
     <div class="edu-date-line">Aug 2024 — Present</div>
     <div class="edu-school"><strong>Nanyang Technological University, Singapore</strong></div>
-    <em>Ph.D. in Electrical and Electronic Engineering (EEE)</em> · GPA: 4.92/5<br>
+    <em>Ph.D. in Electrical and Electronic Engineering</em> · GPA: 4.92/5<br>
     Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
   </div>
 </div>
@@ -175,14 +181,14 @@ html { scroll-behavior: smooth; }
 .edu-left { margin-left: 0; }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
-.pub-thumb { width:200px; height:120px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
+.pub-thumb { width:240px; height:160px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
 .pub-meta { flex:1; min-width:0; }
 .pub-title { font-size:1.04em; margin-bottom:4px; color:#0f1c36; }
 .pub-authors { color:#31406b; font-size:0.96em; margin-bottom:4px; }
 .pub-venue { color:#31406b; font-size:0.95em; margin-bottom:6px; }
 .pub-links a { margin-right:10px; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
-@media (max-width:600px) { .pub-thumb{ width:130px; height:90px; } }
+@media (max-width:600px) { .pub-thumb{ width:140px; height:110px; } }
 @media (min-width:600px) {
   .page__content {
     max-width:820px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.7rem;
