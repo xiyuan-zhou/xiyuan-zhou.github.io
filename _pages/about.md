@@ -25,6 +25,8 @@ author_profile: true
     <a href="https://www.linkedin.com/in/xiyuan-zhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🔗 LinkedIn</a>
     <!-- Add Google Scholar URL if available -->
   </div>
+</div>
+
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
