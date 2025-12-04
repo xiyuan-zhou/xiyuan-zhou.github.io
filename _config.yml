@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name: "<span class='author-name'>Xiyuan Zhou</span><br><span class='chinese-name'>周茜缘</span>"
-  avatar: "xiyuanzhou1_profile.png"
-  bio: "<span class='bio-text'>PhD student in Electrical and Electronic Engineering (EEE)</span><br><span class='employer'>Nanyang Technological University</span>"
+  avatar: "profile.png"
+  bio: "<span class='bio-text'>Ph.D. Student @ NTU EEE</span>"
 
   # name             : "<span style='font-size: 24px;'>Xiyuan Zhou \n周茜缘</span>"
   # avatar           : "xiyuanzhou_profile.png"
@@ -100,13 +100,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xiyuan-zhou"
+  github           : "xiyuan-zhou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiyuan-zhou"
+  linkedin         : "xiyuan-zhou"
   orcid            :
   pinterest        :
   soundcloud       :

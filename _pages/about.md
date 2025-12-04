@@ -126,28 +126,6 @@ author_profile: true
 
 ---
 
-## <span style="color:#2056c4">RESEARCH INTERESTS</span>
-- Large Language Models (LLMs)
-- AI for Energy (AI4E)
-- Power Systems
-- Energy Markets
-
----
-
-## <span id="contact" style="color:#2056c4">CONTACT</span>
-- Email: <a href="mailto:xiyuan002@e.ntu.edu.sg">xiyuan002@e.ntu.edu.sg</a>
-- GitHub: <a href="https://github.com/xiyuan-zhou">xiyuanzhou</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/xiyuan-zhou">xiyuan-zhou</a>
-
----
-
-## <span id="experience" style="color:#2056c4">EXPERIENCE</span>
-- 2024–Present: Ph.D. Researcher, Nanyang Technological University, Singapore. Research on LLMs for power dispatch, quantum methods for carbon markets, and AI for energy systems.
-- 2023–2024: Research Assistant, Power & Energy Lab. Worked on ElecBench benchmark and LLM-based scenario generation.
-- 2022–2023: Research Intern, FinTech/AI Lab. Focused on DRL for joint electricity–carbon markets.
-
----
-
 ## <span id="speech" style="color:#2056c4">SPEECH</span>
 
 - 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS).
