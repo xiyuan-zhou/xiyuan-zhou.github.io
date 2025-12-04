@@ -77,9 +77,9 @@ author_profile: true
 ## <span id="publications" style="color:#2056c4">PUBLICATIONS</span>
 <p class="pub-note">For the full list, please see my <a href="https://scholar.google.com/citations?user=CbMyJykAAAAJ&hl=en" target="_blank">Google Scholar</a>. Below are selected representative works.</p>
 <div id="pub-filters" class="pub-filters" aria-label="Filter publications">
-  <button type="button" class="pub-filter active" data-filter="all">All</button>
-  <button type="button" class="pub-filter" data-filter="LLM">LLM</button>
-  <button type="button" class="pub-filter" data-filter="QML">QML</button>
+  <a class="pub-filter active" data-filter="all" href="#pub=all">All</a>
+  <a class="pub-filter" data-filter="LLM" href="#pub=LLM">LLM</a>
+  <a class="pub-filter" data-filter="QML" href="#pub=QML">QML</a>
 </div>
 <!-- Begin: Temporarily hide detailed publication list items -->
 <!-- - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄 -->
@@ -276,12 +276,12 @@ li b, strong { color: #2056c4; }
 a { color: #2056c4; }
 html { scroll-behavior: smooth; }
 /* Education layout */
-.edu-entry { margin-bottom: 1rem; }
+.edu-entry { margin-bottom: 1rem; position: relative; }
 .edu-date-line { color:#6b7aa6; font-weight:500; margin-bottom: 2px; }
 .edu-school { font-size: 1.02em; margin-bottom: 2px; }
 .edu-left { margin-left: 0; }
-.edu-logo { float:right; height:40px; margin-left:12px; margin-top:0; opacity:0.98; }
-@media (max-width:600px){ .edu-logo{ height:28px; } }
+.edu-logo { position:absolute; right:0; top:0; height:160px; opacity:0.98; }
+@media (max-width:600px){ .edu-logo{ height:64px; } }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
 .pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
@@ -294,8 +294,8 @@ html { scroll-behavior: smooth; }
 .pub-links a { margin-right:10px; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
-.pub-filters { display:flex; align-items:center; gap:8px; margin:6px 0 12px 0; position:relative; z-index:3; pointer-events:auto; }
-.pub-filter { border:1px solid #cfe0ff; background:#f4f8ff; color:#2056c4; padding:4px 10px; border-radius:8px; font-weight:600; cursor:pointer; }
+.pub-filters { display:flex; align-items:center; gap:8px; margin:6px 0 12px 0; position:relative; z-index:999; pointer-events:auto; }
+.pub-filter { border:1px solid #cfe0ff; background:#f4f8ff; color:#2056c4; padding:4px 10px; border-radius:8px; font-weight:600; cursor:pointer; pointer-events:auto; }
 .pub-filter.active { background:#2056c4; color:#fff; border-color:#2056c4; }
 .pub-filter-hint { color:#5a6999; font-size:0.9em; margin-left:auto; }
 .pub-item.hidden { display:none; }
