@@ -111,6 +111,18 @@ author_profile: true
     </div>
   </div>
 </div>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/images/GAIA.png" alt="GAIA thumbnail">
+  <div class="pub-meta">
+    <div class="pub-title"><b>GAIA – A Large Language Model for Advanced Power Dispatch</b></div>
+    <div class="pub-authors">Y. Cheng, H. Zhao, <b>X. Zhou</b>, J. Zhao, Y. Cao, C. Yang</div>
+    <div class="pub-venue"><em>Scientific Reports</em>, 2025</div>
+    <div class="pub-links">
+      <a href="https://www.nature.com/articles/s41598-025-91940-x" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
 <!-- - X. Zhou, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, "Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study," <em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em>. (replaced by card above) -->
 <!-- - Y. Cheng, X. Zhou, H. Zhao, J. Gu, X. Wang and J. Zhao, "Large Language Model for Low-Carbon Energy Transition: Roles and Challenges," <em>2024 4th Power System and Green Energy Conference (PSGEC 2024)</em> (pp. 810-816). IEEE. 📄 -->
 <!-- - T. Shu, X. Zhou, Y. Xie, H. Zhao, X. Chen and R. Wang, "Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN," <em>2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)</em> (pp. 47-52). IEEE. 📄 -->
