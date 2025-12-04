@@ -16,7 +16,7 @@ author_profile: true
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
     Prior to my Ph.D., I received my B.BA in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
   </p>
-  <p style="font-size:0.98em;max-width:700px;margin:0.2rem auto 0.6rem auto; color:#3b4a6b; line-height:1.55;">
+  <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
     I also serve as President of the NTU EEE Graduate Students’ Club (GSC).
   </p>
   <div style="margin-top:1rem;font-size:1.15em">
@@ -84,7 +84,15 @@ author_profile: true
 - Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄
 
 ### Conference Papers
-- <b>Best Paper Session</b> X. Zhou, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, and J. Zhao, "ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models," <em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em>. 📄
+<div class="pub-item">
+  <img class="pub-thumb" src="/images/elecbench.png" alt="ElecBench thumbnail">
+  <div class="pub-meta">
+    <div class="pub-title"><b>ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models</b></div>
+    <div class="pub-authors">X. Zhou, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, J. Zhao</div>
+    <div class="pub-venue"><em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em> — <span class="pub-badge">Best Paper Session</span></div>
+    <div class="pub-links"><a href="https://ieeexplore.ieee.org/document/11225826" target="_blank">IEEE Xplore</a></div>
+  </div>
+</div>
 - X. Zhou, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, "Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study," <em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em>.
 - Y. Cheng, X. Zhou, H. Zhao, J. Gu, X. Wang and J. Zhao, "Large Language Model for Low-Carbon Energy Transition: Roles and Challenges," <em>2024 4th Power System and Green Energy Conference (PSGEC 2024)</em> (pp. 810-816). IEEE. 📄
 - T. Shu, X. Zhou, Y. Xie, H. Zhao, X. Chen and R. Wang, "Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN," <em>2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)</em> (pp. 47-52). IEEE. 📄
@@ -141,7 +149,7 @@ author_profile: true
 ## <span id="speech" style="color:#2056c4">SPEECH</span>
 
 - 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS).
-- 2024: Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus.
+- 2024-05-10: Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus.
 - 2023-05-19: The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum. <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
 
 <style>
@@ -165,6 +173,16 @@ html { scroll-behavior: smooth; }
 .edu-date-line { color:#6b7aa6; font-weight:500; margin-bottom: 2px; }
 .edu-school { font-size: 1.02em; margin-bottom: 2px; }
 .edu-left { margin-left: 0; }
+/* Publication card */
+.pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
+.pub-thumb { width:200px; height:120px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
+.pub-meta { flex:1; min-width:0; }
+.pub-title { font-size:1.04em; margin-bottom:4px; color:#0f1c36; }
+.pub-authors { color:#31406b; font-size:0.96em; margin-bottom:4px; }
+.pub-venue { color:#31406b; font-size:0.95em; margin-bottom:6px; }
+.pub-links a { margin-right:10px; }
+.pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
+@media (max-width:600px) { .pub-thumb{ width:130px; height:90px; } }
 @media (min-width:600px) {
   .page__content {
     max-width:820px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.7rem;
