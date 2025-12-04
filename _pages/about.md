@@ -25,7 +25,6 @@ author_profile: true
     <a href="https://www.linkedin.com/in/xiyuan-zhou" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">🔗 LinkedIn</a>
     <!-- Add Google Scholar URL if available -->
   </div>
-</div>
 
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
@@ -81,6 +80,42 @@ author_profile: true
   <a class="pub-filter" data-filter="LLM" href="#pub=LLM">LLM</a>
   <a class="pub-filter" data-filter="QML" href="#pub=QML">QML</a>
 </div>
+<script>
+  (function(){
+    var filtersContainer = document.getElementById('pub-filters');
+    if (!filtersContainer) return;
+    function items(){ return Array.prototype.slice.call(document.querySelectorAll('.pub-item')); }
+    function setActive(target){
+      var btns = filtersContainer.querySelectorAll('.pub-filter');
+      btns.forEach(function(b){ b.classList.toggle('active', b === target); });
+    }
+    function apply(filter){
+      items().forEach(function(it){
+        var topic = it.getAttribute('data-topic') || '';
+        if (filter === 'all' || topic === filter) it.classList.remove('hidden');
+        else it.classList.add('hidden');
+      });
+    }
+    function readHash(){
+      var m = (location.hash || '').match(/[#&]?pub=([^&]+)/);
+      return m ? decodeURIComponent(m[1]) : null;
+    }
+    function syncFromHash(){
+      var f = readHash() || 'all';
+      var btn = filtersContainer.querySelector('.pub-filter[data-filter="'+f+'"]') || filtersContainer.querySelector('.pub-filter[data-filter="all"]');
+      if (btn) setActive(btn);
+      apply(f);
+    }
+    filtersContainer.addEventListener('click', function(e){
+      var a = e.target.closest('.pub-filter');
+      if (!a) return;
+      setActive(a);
+      apply(a.getAttribute('data-filter'));
+    });
+    window.addEventListener('hashchange', syncFromHash);
+    syncFromHash();
+  })();
+  </script>
 <!-- Begin: Temporarily hide detailed publication list items -->
 <!-- - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄 -->
 <!-- - Y. Cheng, H. Zhao, X. Zhou, J. Zhao, Y. Cao, and C. Yang, "GAIA–A Large Language Model for Advanced Power Dispatch," <em>Scientific Reports</em>. 📄 -->
@@ -279,9 +314,9 @@ html { scroll-behavior: smooth; }
 .edu-entry { margin-bottom: 1rem; position: relative; }
 .edu-date-line { color:#6b7aa6; font-weight:500; margin-bottom: 2px; }
 .edu-school { font-size: 1.02em; margin-bottom: 2px; }
-.edu-left { margin-left: 0; }
-.edu-logo { position:absolute; right:0; top:0; height:160px; opacity:0.98; }
-@media (max-width:600px){ .edu-logo{ height:64px; } }
+.edu-left { margin-left: 0; padding-right: 90px; position: relative; }
+.edu-logo { position:absolute; right:0; top:0; height:64px; opacity:0.98; }
+@media (max-width:600px){ .edu-left{ padding-right: 56px; } .edu-logo{ height:32px; top:0; } }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
 .pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
