@@ -27,6 +27,18 @@ author_profile: true
   </div>
 </div>
 
+<div class="pub-item">
+  <div class="pub-meta">
+    <div class="pub-title"><b>Large Language Model for Power System Scenario Generation Considering Weather Condition</b></div>
+    <div class="pub-authors"><b>X. Zhou</b>, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu, J. Zhao</div>
+    <div class="pub-venue"><em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/document/11225627" target="_blank">Paper</a>
+      <a href="/assets/pesgm/ScenarioGen_PESGM2025_Poster.pdf" target="_blank">Poster</a>
+    </div>
+  </div>
+</div>
+
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
