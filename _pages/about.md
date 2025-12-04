@@ -75,20 +75,19 @@ author_profile: true
 ---
 
 ## <span id="publications" style="color:#2056c4">PUBLICATIONS</span>
-
-### Journal Articles
+<p class="pub-note">For the full list, please see my <a href="https://scholar.google.com/citations?user=CbMyJykAAAAJ&hl=en" target="_blank">Google Scholar</a>. Below are selected representative works.</p>
 - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄
 - Y. Cheng, H. Zhao, X. Zhou, J. Zhao, Y. Cao, and C. Yang, "GAIA–A Large Language Model for Advanced Power Dispatch," <em>Scientific Reports</em>. 📄
 - X. Zhou, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, "Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation," <em>Energy Conversion and Economics</em> 5 (4), 193-210, 2024. 📄
 - X. Fei, H. Zhao, X. Zhou, J. Zhao, T. Shu and F. Wen, "Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition," <em>Scientific Reports</em> 14, 16991 (2024). 📄
 - Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄
 
-### Conference Papers
+<!-- unified publications list -->
 <div class="pub-item">
   <img class="pub-thumb" src="/images/elecbench.png" alt="ElecBench thumbnail">
   <div class="pub-meta">
     <div class="pub-title"><b>ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models</b></div>
-    <div class="pub-authors">X. Zhou, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, J. Zhao</div>
+    <div class="pub-authors"><b>X. Zhou</b>, H. Zhao, Y. Cheng, G. Liang, G. Liu, W. Liu, Y. Xu, J. Zhao</div>
     <div class="pub-venue"><em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em> — <span class="pub-badge">Best Paper Session</span></div>
     <div class="pub-links">
       <a href="https://ieeexplore.ieee.org/document/11225826" target="_blank">Paper</a>
@@ -181,14 +180,15 @@ html { scroll-behavior: smooth; }
 .edu-left { margin-left: 0; }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
-.pub-thumb { width:240px; height:160px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
+.pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
 .pub-meta { flex:1; min-width:0; }
 .pub-title { font-size:1.04em; margin-bottom:4px; color:#0f1c36; }
 .pub-authors { color:#31406b; font-size:0.96em; margin-bottom:4px; }
 .pub-venue { color:#31406b; font-size:0.95em; margin-bottom:6px; }
 .pub-links a { margin-right:10px; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
-@media (max-width:600px) { .pub-thumb{ width:140px; height:110px; } }
+.pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
+@media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 @media (min-width:600px) {
   .page__content {
     max-width:820px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.7rem;
