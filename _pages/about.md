@@ -11,10 +11,10 @@ author_profile: true
   <h1 style="margin:1rem 0 0.5rem 0; color:#2056c4">Xiyuan Zhou (周茜缘)</h1>
   <p style="color:#2056c4;font-weight:600;margin:0.2rem 0 0.6rem 0;">Ph.D. Student @ NTU EEE</p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.3rem auto; color:#0f1c36; line-height:1.55;">
-    I am currently a Ph.D. candidate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, supervised by <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a> and <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
+    I am currently a Ph.D. candidate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, supervised by <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a> and <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>, since 2024. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    Prior to my Ph.D., I received my Bachelor's degree in Financial Engineering (First Class Honours), with a minor in Mathematics and Applied Mathematics, from The Chinese University of Hong Kong, Shenzhen, where I was supervised by <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
+    Prior to my Ph.D., I received my Bachelor's degree in Financial Engineering (First Class Honours) in 2024, with a minor in Mathematics and Applied Mathematics, from The Chinese University of Hong Kong, Shenzhen, where I was supervised by <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
     I also serve as President of the NTU EEE Graduate Students’ Club (GSC).
@@ -154,30 +154,6 @@ author_profile: true
 
 ---
 
-## <span id="education" style="color:#2056c4">EDUCATION</span>
-
-<div class="edu-entry">
-  <div class="edu-left">
-    <div class="edu-date-line">Aug 2024 — Present</div>
-    <div class="edu-school"><strong>Nanyang Technological University, Singapore</strong></div>
-    <em>Ph.D. in Electrical and Electronic Engineering</em> · GPA: 4.92/5<br>
-    Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
-  </div>
-</div>
-
-<div class="edu-entry">
-  <div class="edu-left">
-    <div class="edu-date-line">Sep 2020 — May 2024</div>
-    <div class="edu-school"><strong>The Chinese University of Hong Kong, Shenzhen</strong></div>
-    <em>B.BA in Financial Engineering (First Class Honours)</em><br>
-    Minor: Mathematics and Applied Mathematics<br>
-    Dean's List · Master's List<br>
-    Advisors: <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>, <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>
-  </div>
-</div>
-
----
-
 ## <span id="speech" style="color:#2056c4">SPEECH</span>
 
 - 2025-10-17: IEEE PES SG Postgraduate Workshop 2025, National University of Singapore (NUS).
@@ -218,15 +194,21 @@ html { scroll-behavior: smooth; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 @media (min-width:600px) {
   .page .page__content {
-    max-width:none !important; width:auto !important; margin: 0 0.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
+    max-width:none !important; width:auto !important; margin: 0 0.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 1.8rem;
   }
 }
-@media (min-width:1200px) {
-  .page .page__content { max-width:none !important; width:auto !important; margin: 0 0.3rem 0 2.8rem; }
-}
-/* Expand the overall page container so content can grow to the right */
 @media (min-width:1000px) { .page { max-width: 1600px !important; } }
-@media (min-width:1400px) { .page { max-width: 2000px !important; } }
-/* Override other wrappers that might constrain width */
-.archive, .page__inner-wrap, .initial-content { max-width: none !important; }
+/* Override other wrappers that might constrain width (apply globally) */
+.wrap, .archive, .page__inner-wrap, .initial-content { max-width: none !important; width: auto !important; }
+.page { width: auto !important; margin-right: 0.2rem !important; }
+.page__inner-wrap { padding-right: 0 !important; }
+.page__content { width: 100% !important; }
+/* On wide screens, ensure layout uses flex and content fills remaining viewport to the right of sidebar */
+@media (min-width: 1000px) {
+  .initial-content { display: flex !important; }
+  .initial-content .sidebar { flex: 0 0 auto; }
+  .initial-content .page { flex: 1 1 auto !important; max-width: none !important; width: auto !important; }
+  /* Assume sidebar + gap around ~340px; let page fill the rest */
+  .layout--single .page { width: calc(100vw - 340px) !important; }
+}
 </style>
