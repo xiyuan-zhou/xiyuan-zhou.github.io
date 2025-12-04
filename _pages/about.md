@@ -205,10 +205,8 @@ html { scroll-behavior: smooth; }
 .page__content { width: 100% !important; }
 /* On wide screens, ensure layout uses flex and content fills remaining viewport to the right of sidebar */
 @media (min-width: 1000px) {
-  .initial-content { display: flex !important; }
-  .initial-content .sidebar { flex: 0 0 auto; }
-  .initial-content .page { flex: 1 1 auto !important; max-width: none !important; width: auto !important; }
-  /* Assume sidebar + gap around ~340px; let page fill the rest */
-  .layout--single .page { width: calc(100vw - 340px) !important; }
+  .initial-content { display: block !important; }
+  .layout--single .page { width: auto !important; }
+  .page { margin-left: 2.6rem !important; margin-right: 0.2rem !important; }
 }
 </style>
