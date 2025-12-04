@@ -217,14 +217,16 @@ html { scroll-behavior: smooth; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 @media (min-width:600px) {
-  .page__content {
-    max-width:none; margin: 0 0.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
+  .page .page__content {
+    max-width:none !important; width:auto !important; margin: 0 0.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
   }
 }
 @media (min-width:1200px) {
-  .page__content { max-width:none; margin: 0 0.3rem 0 2.8rem; }
+  .page .page__content { max-width:none !important; width:auto !important; margin: 0 0.3rem 0 2.8rem; }
 }
 /* Expand the overall page container so content can grow to the right */
-@media (min-width:1000px) { .page { max-width: 1600px; } }
-@media (min-width:1400px) { .page { max-width: 1800px; } }
+@media (min-width:1000px) { .page { max-width: 1600px !important; } }
+@media (min-width:1400px) { .page { max-width: 2000px !important; } }
+/* Override other wrappers that might constrain width */
+.archive, .page__inner-wrap, .initial-content { max-width: none !important; }
 </style>
