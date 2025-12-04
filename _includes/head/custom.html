@@ -62,3 +62,30 @@
     .layout--single .initial-content .page .page__content { max-width: none; }
   }
 </style>
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+    var filtersContainer = document.getElementById('pub-filters');
+    if (!filtersContainer) return;
+    var items = Array.prototype.slice.call(document.querySelectorAll('.pub-item'));
+    function setActive(target){
+      var btns = filtersContainer.querySelectorAll('.pub-filter');
+      btns.forEach(function(b){ b.classList.toggle('active', b === target); });
+    }
+    function apply(filter){
+      items.forEach(function(it){
+        var topic = it.getAttribute('data-topic') || '';
+        if (filter === 'all' || topic === filter) it.classList.remove('hidden');
+        else it.classList.add('hidden');
+      });
+    }
+    filtersContainer.addEventListener('click', function(e){
+      var btn = e.target.closest('.pub-filter');
+      if (!btn) return;
+      setActive(btn);
+      apply(btn.getAttribute('data-filter'));
+    });
+    // default
+    var active = filtersContainer.querySelector('.pub-filter.active');
+    apply(active ? active.getAttribute('data-filter') : 'all');
+  });
+</script>

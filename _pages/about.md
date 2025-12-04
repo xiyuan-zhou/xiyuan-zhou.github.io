@@ -280,7 +280,8 @@ html { scroll-behavior: smooth; }
 .edu-date-line { color:#6b7aa6; font-weight:500; margin-bottom: 2px; }
 .edu-school { font-size: 1.02em; margin-bottom: 2px; }
 .edu-left { margin-left: 0; }
-.edu-logo { float:right; height:28px; margin-left:10px; margin-top:2px; opacity:0.95; }
+.edu-logo { float:right; height:40px; margin-left:12px; margin-top:0; opacity:0.98; }
+@media (max-width:600px){ .edu-logo{ height:28px; } }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
 .pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
