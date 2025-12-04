@@ -218,7 +218,7 @@ html { scroll-behavior: smooth; }
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
 .pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
 .pub-thumb-wrap { position: relative; display: inline-block; }
-.pub-ribbon { position:absolute; top:8px; left:0; background:#2056c4; color:#fff; font-weight:600; font-size:0.85em; padding:4px 10px 4px 12px; border-top-right-radius:6px; border-bottom-right-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.12); z-index:2; }
+.pub-ribbon { position:absolute; top:6px; left:0; background:#2056c4; color:#fff; font-weight:600; font-size:0.78em; padding:2px 8px 2px 10px; border-top-right-radius:5px; border-bottom-right-radius:5px; box-shadow:0 1px 3px rgba(0,0,0,0.10); z-index:2; }
 .pub-meta { flex:1; min-width:0; }
 .pub-title { font-size:1.04em; margin-bottom:4px; color:#0f1c36; }
 .pub-authors { color:#31406b; font-size:0.96em; margin-bottom:4px; }
