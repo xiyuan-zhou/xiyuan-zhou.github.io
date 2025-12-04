@@ -14,7 +14,7 @@ author_profile: true
     I am currently a Ph.D. candidate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, supervised by <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a> and <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    Prior to my Ph.D., I received my B.BA in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
+    Prior to my Ph.D., I received my Bachelor's degree in Financial Engineering (First Class Honours), with a minor in Mathematics and Applied Mathematics, from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
     I also serve as President of the NTU EEE Graduate Students’ Club (GSC).
