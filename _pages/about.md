@@ -26,6 +26,8 @@ author_profile: true
     <!-- Add Google Scholar URL if available -->
   </div>
 
+</div>
+
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
