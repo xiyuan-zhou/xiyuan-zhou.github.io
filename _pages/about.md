@@ -199,7 +199,7 @@ html { scroll-behavior: smooth; }
   .initial-content .page { flex: 1 1 auto !important; max-width: none !important; margin-right: 0.2rem !important; }
   .initial-content .page .page__inner-wrap { padding-right: 0.2rem !important; }
   .initial-content .page .page__content {
-    max-width: none !important; width: 100% !important; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 1.6rem;
+    max-width: none !important; width: 100% !important; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 1.4rem; margin-right: -1.0rem !important;
   }
 }
 </style>
