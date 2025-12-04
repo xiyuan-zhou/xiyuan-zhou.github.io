@@ -76,11 +76,12 @@ author_profile: true
 
 ## <span id="publications" style="color:#2056c4">PUBLICATIONS</span>
 <p class="pub-note">For the full list, please see my <a href="https://scholar.google.com/citations?user=CbMyJykAAAAJ&hl=en" target="_blank">Google Scholar</a>. Below are selected representative works.</p>
-- Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄
-- Y. Cheng, H. Zhao, X. Zhou, J. Zhao, Y. Cao, and C. Yang, "GAIA–A Large Language Model for Advanced Power Dispatch," <em>Scientific Reports</em>. 📄
-- X. Zhou, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, "Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation," <em>Energy Conversion and Economics</em> 5 (4), 193-210, 2024. 📄
-- X. Fei, H. Zhao, X. Zhou, J. Zhao, T. Shu and F. Wen, "Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition," <em>Scientific Reports</em> 14, 16991 (2024). 📄
-- Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄
+<!-- Begin: Temporarily hide detailed publication list items -->
+<!-- - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄 -->
+<!-- - Y. Cheng, H. Zhao, X. Zhou, J. Zhao, Y. Cao, and C. Yang, "GAIA–A Large Language Model for Advanced Power Dispatch," <em>Scientific Reports</em>. 📄 -->
+<!-- - X. Zhou, H. Zhao, Y. Cao, X. Fei, G. Liang and J. Zhao, "Carbon market risk estimation using quantum conditional generative adversarial network and quantum amplitude estimation," <em>Energy Conversion and Economics</em> 5 (4), 193-210, 2024. 📄 -->
+<!-- - X. Fei, H. Zhao, X. Zhou, J. Zhao, T. Shu and F. Wen, "Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition," <em>Scientific Reports</em> 14, 16991 (2024). 📄 -->
+<!-- - Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄 -->
 
 <!-- unified publications list -->
 <div class="pub-item">
@@ -98,10 +99,10 @@ author_profile: true
     </div>
   </div>
 </div>
-- X. Zhou, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, "Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study," <em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em>.
-- Y. Cheng, X. Zhou, H. Zhao, J. Gu, X. Wang and J. Zhao, "Large Language Model for Low-Carbon Energy Transition: Roles and Challenges," <em>2024 4th Power System and Green Energy Conference (PSGEC 2024)</em> (pp. 810-816). IEEE. 📄
-- T. Shu, X. Zhou, Y. Xie, H. Zhao, X. Chen and R. Wang, "Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN," <em>2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)</em> (pp. 47-52). IEEE. 📄
-- Y. Li, D. Leng, Y. Cao, H. Zhao, X. Zhou, J. Zhao, "Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning," <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em> (pp. 5183-5189). IEEE. 📄
+<!-- - X. Zhou, Y. Cheng, Y. Zhong, H. Zhao, Y. Zhu, X. Cai, Y. Xu and J. Zhao, "Large Language Model for Power System Scenario Generation Considering Weather Condition - A Case Study," <em>2025 IEEE Power & Energy Society General Meeting (PESGM)</em>. -->
+<!-- - Y. Cheng, X. Zhou, H. Zhao, J. Gu, X. Wang and J. Zhao, "Large Language Model for Low-Carbon Energy Transition: Roles and Challenges," <em>2024 4th Power System and Green Energy Conference (PSGEC 2024)</em> (pp. 810-816). IEEE. 📄 -->
+<!-- - T. Shu, X. Zhou, Y. Xie, H. Zhao, X. Chen and R. Wang, "Deep Learning based Cloud Microphysics Parameterization Scheme for Numerical Weather Prediction with 1DD-CNN," <em>2024 The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)</em> (pp. 47-52). IEEE. 📄 -->
+<!-- - Y. Li, D. Leng, Y. Cao, H. Zhao, X. Zhou, J. Zhao, "Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning," <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em> (pp. 5183-5189). IEEE. 📄 -->
 
 ### Reports
 - "2023 Carbon Rating Report of China’s 100 Oversea Listed Companies," (REPORT) Published at the 2023 Global Forum on Sustainable Development (Executive Board) 📄
@@ -109,6 +110,30 @@ author_profile: true
 
 ### Patents
 - T. Shu, X. Zhou, H. Zhao, and J. Feng, "The method, device, and storage medium for cloud microphysical parameterization in numerical weather forecasting models."
+
+---
+
+## <span id="education" style="color:#2056c4">EDUCATION</span>
+
+<div class="edu-entry">
+  <div class="edu-left">
+    <div class="edu-date-line">Aug 2024 — Present</div>
+    <div class="edu-school"><strong>Nanyang Technological University, Singapore</strong></div>
+    <em>Ph.D. in Electrical and Electronic Engineering (EEE)</em> · GPA: 4.92/5<br>
+    Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
+  </div>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-left">
+    <div class="edu-date-line">Sep 2020 — May 2024</div>
+    <div class="edu-school"><strong>The Chinese University of Hong Kong, Shenzhen</strong></div>
+    <em>B.BA in Financial Engineering (First Class Honours)</em><br>
+    Minor: Mathematics and Applied Mathematics<br>
+    Dean's List · Master's List<br>
+    Advisors: <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>, <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>
+  </div>
+</div>
 
 ---
 
@@ -191,10 +216,10 @@ html { scroll-behavior: smooth; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 @media (min-width:600px) {
   .page__content {
-    max-width:980px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
+    max-width:980px; margin: 0 1.2rem 0 2.6rem; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
   }
 }
 @media (min-width:1200px) {
-  .page__content { max-width:1100px; }
+  .page__content { max-width:1100px; margin: 0 1.4rem 0 2.8rem; }
 }
 </style>
