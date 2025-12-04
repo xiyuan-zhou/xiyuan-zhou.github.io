@@ -191,7 +191,10 @@ html { scroll-behavior: smooth; }
 @media (max-width:600px) { .pub-thumb{ width:150px; height:120px; } }
 @media (min-width:600px) {
   .page__content {
-    max-width:820px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.7rem;
+    max-width:980px; margin:auto; background:#fff; border-radius:14px; box-shadow:0 2px 14px #eceefe; padding:2rem 2.4rem;
   }
+}
+@media (min-width:1200px) {
+  .page__content { max-width:1100px; }
 }
 </style>
