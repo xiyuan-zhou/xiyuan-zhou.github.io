@@ -253,8 +253,7 @@ author_profile: true
 <div class="edu-entry">
   <div class="edu-left">
     <div class="edu-date-line">Aug 2024 — Present</div>
-    <div class="edu-school"><strong>Nanyang Technological University, Singapore</strong></div>
-    <img class="edu-logo" src="/images/ntu_logo.png" alt="NTU logo">
+    <div class="edu-school"><strong>Nanyang Technological University, Singapore</strong><img class="edu-logo" src="/images/ntu_logo.png" alt="NTU logo"></div>
     <em>Ph.D. in Electrical and Electronic Engineering (EEE)</em><br>
     GPA: 4.92/5<br>
     Advisors: <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a>, <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>
@@ -264,8 +263,7 @@ author_profile: true
 <div class="edu-entry">
   <div class="edu-left">
     <div class="edu-date-line">Sep 2020 — May 2024</div>
-    <div class="edu-school"><strong>The Chinese University of Hong Kong, Shenzhen</strong></div>
-    <img class="edu-logo" src="/images/cuhksz_logo.png" alt="CUHKSZ logo">
+    <div class="edu-school"><strong>The Chinese University of Hong Kong, Shenzhen</strong><img class="edu-logo" src="/images/cuhksz_logo.png" alt="CUHKSZ logo"></div>
     <em>B.BA in Financial Engineering (First Class Honours)</em><br>
     Minor: Mathematics and Applied Mathematics<br>
     Dean's List · Master's List<br>
@@ -315,10 +313,10 @@ html { scroll-behavior: smooth; }
 /* Education layout */
 .edu-entry { margin-bottom: 1rem; position: relative; }
 .edu-date-line { color:#6b7aa6; font-weight:500; margin-bottom: 2px; }
-.edu-school { font-size: 1.02em; margin-bottom: 2px; }
-.edu-left { margin-left: 0; padding-right: 90px; position: relative; }
-.edu-logo { position:absolute; right:0; top:0; height:64px; opacity:0.98; }
-@media (max-width:600px){ .edu-left{ padding-right: 56px; } .edu-logo{ height:32px; top:0; } }
+.edu-school { font-size: 1.02em; margin-bottom: 2px; display:flex; align-items:center; justify-content:space-between; }
+.edu-left { margin-left: 0; }
+.edu-logo { height:64px; margin-left:12px; opacity:0.98; flex:0 0 auto; }
+@media (max-width:600px){ .edu-logo{ height:40px; } }
 /* Publication card */
 .pub-item { display:flex; gap:16px; padding:12px; border:1px solid #e9edff; border-radius:12px; background:#fff; margin:8px 0 14px 0; align-items:flex-start; }
 .pub-thumb { width:260px; height:190px; object-fit:cover; border-radius:8px; border:1px solid #eef2ff; background:#f8f9ff; }
