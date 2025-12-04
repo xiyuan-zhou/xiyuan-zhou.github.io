@@ -10,11 +10,14 @@ author_profile: true
 <div align="center" style="margin-bottom:2rem;">
   <h1 style="margin:1rem 0 0.5rem 0; color:#2056c4">Xiyuan Zhou (周茜缘)</h1>
   <p style="color:#2056c4;font-weight:600;margin:0.2rem 0 0.6rem 0;">Ph.D. Student @ NTU EEE</p>
-  <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    I am currently a Ph.D. candidate supervised by Prof. Yan Xu and Prof. Junhua Zhao at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
+  <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.3rem auto; color:#0f1c36; line-height:1.55;">
+    I am currently a Ph.D. candidate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, supervised by <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a> and <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
   </p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.6rem auto; color:#0f1c36; line-height:1.55;">
-    Prior to my Ph.D., I received my B.Eng. in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with Prof. Junhua Zhao and Prof. Bohui Zhang.
+    Prior to my Ph.D., I received my B.Eng. in Financial Engineering (First Class Honours) from The Chinese University of Hong Kong, Shenzhen, where I had the opportunity to work with <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a> and <a href="https://scholar.google.com/citations?user=LOa3IcwAAAAJ&hl=en" target="_blank">Prof. Bohui Zhang</a>.
+  </p>
+  <p style="font-size:0.98em;max-width:700px;margin:0.2rem auto 0.6rem auto; color:#3b4a6b; line-height:1.55;">
+    I also serve as President of the NTU EEE Graduate Students’ Club (GSC).
   </p>
   <div style="margin-top:1rem;font-size:1.15em">
     <a href="mailto:xiyuan002@e.ntu.edu.sg" style="margin:0 0.7rem;color:#2056c4;text-decoration:none;">💌 Email</a> |
@@ -27,32 +30,51 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2025-10: Paper (Corresponding author) accepted to ECE Forum.</li>
     <li>2025-09: Elected President of NTU EEE Graduate Students’ Club (GSC).</li>
-    <li>2025-07: ElecBench received Best Paper at IEEE PESGM 2025.</li>
-    <li>2025-05: ACS Catalysis paper accepted: photothermal ethane dehydrogenation (hydrogen spillover).</li>
-    <li>2025-02: Two papers accepted to IEEE PESGM 2025 (ElecBench; LLM-based scenario generation).</li>
-    <li>2025-02: GAIA — A Large Language Model for Advanced Power Dispatch accepted to Scientific Reports.</li>
+    <li>2025-08: Google Scholar citations surpassed 100.</li>
+    <li>2025-07: Paper accepted to PSET.</li>
+    <li>2025-07: ElecBench (First Author) received Best Paper at IEEE PESGM 2025.</li>
+    <li>2025-05: Paper accepted to ACS Catalysis.</li>
+    <li>2025-03: Co-first-author paper accepted to ICPIES.</li>
+    <li>2025-02: Two first-author papers accepted to IEEE PESGM 2025.</li>
+    <li>2025-02: GAIA accepted to Scientific Reports.</li>
+    <li>2024-11: One patent accepted.</li>
+    <li>2024-09: CUHKSZ USTF Award.</li>
+    <li>2024-08: Began Ph.D. journey at NTU EEE.</li>
+    <li>2024-07: Paper accepted to Scientific Reports.</li>
+    <li>2024-07: Co-first-author paper accepted to PEGEC.</li>
+    <li>2024-05: Graduated with First Class Honours (highest distinction).</li>
+    <li>2024-05: Received NTU Ph.D. offer.</li>
+    <li>2024-05: Oral presentation at Nexus Forum.</li>
+    <li>2024-04: Paper accepted to ICAIBD.</li>
+    <li>2024-01: First-author paper accepted to ECE.</li>
+    <li>2024-01: Selected as Youth Pioneer & Youth Trainer by GAUC.</li>
+    <li>2023-12: Selected for 23rd URA; IEEE EI2 Poster presentation.</li>
+    <li>2023-11: Paper accepted to IEEE EI2.</li>
+    <li>2023-09: Dean’s List.</li>
+    <li>2023-08: CCF “Sinan Cup” Quantum Algorithms — National Third Prize (Professional Group, Top 8).</li>
+    <li>2023-08: Selected for 22nd URA.</li>
+    <li>2023-07: 2023 Carbon Rating Report of China’s 100 Oversea Listed Companies released.</li>
+    <li>2023-05: China National College Students Competition on Energy Economics — Postgraduate Group National Outstanding Award.</li>
+    <li>2023-05: China Forum on PRME - Youth Forum Speech Competition — First Prize (Top 1).</li>
+    <li>2023-05: Paper accepted to Quantum Machine Intelligence.</li>
+    <li>2023-04: Selected for 21st URA.</li>
+    <li>2023-02: Appointed USTF for ECO4001 Environmental Economics and Policy.</li>
+    <li>2022-11: Selected for 20th URA.</li>
+    <li>2022-09: Dean’s List.</li>
+    <li>2022-08: Selected for 19th URA.</li>
+    <li>2022-08: CCF “Sinan Cup” Quantum Algorithms — National Second Prize (Top 6).</li>
+    <li>2022-07: 2022 Carbon Rating Report of China’s 100 Oversea Listed Companies released.</li>
+    <li>2022-05: China National College Students Competition on Energy Economics — Undergraduate Group National Outstanding Award (Top 1).</li>
+    <li>2022-05: Mathematical Contest in Modeling — Meritorious Winner (Top 7%).</li>
+    <li>2021-09: Master’s List Award; Dean’s List.</li>
   </ul>
 </div>
 
 ---
 
-## <span id="awards" style="color:#2056c4">AWARDS & HONORS</span>
-- 2024 Global Climate Innovator Trailblazer, Global Climate Innovation Center
-- 2024 Youth Pioneer & Youth Trainer, Global Alliance of Universities on Climate
-- 2024 Outstanding Undergraduate Student Teaching Fellow
-- 2022-2024 Undergraduate Research Award
-- 2021-2023 Dean’s List Honor, School of Management and Economics
-- 2023 National Outstanding Award (Postgraduate Group, Top Award), China National College Students Competition on Energy Economics
-- 2023 First Prize & Green Angel Excellent Award (Top Award), China Forum on PRME - Youth Forum Speech Competition
-- 2022 National Second Prize (Top 6), CCF “Sinan Cup” Quantum Algorithms
-- 2022 National Outstanding Award (Undergraduate Group, Top Award), China National College Students Competition on Energy Economics
-- 2022 Meritorious Winner, Mathematical Contest in Modeling
-- 2021 Master’s List Awards Scheme, Muse College
-
----
-
-## <span id="publications" style="color:#2056c4">SELECTED PUBLICATIONS</span>
+## <span id="publications" style="color:#2056c4">PUBLICATIONS</span>
 
 ### Journal Articles
 - Z. Zhang, Z. Lu, Y. Wang, Z. Y. Wang, J. Sun, X. Ding, W. Liu, X. Zhou, W. Tu, L. Sun, and J. A. Lai, "Manipulated directional hydrogen spillover for enhanced photothermal tandem ethane dehydrogenation," <em>ACS Catalysis</em>, vol. 15, pp. 9706–9716, 2025. 📄
@@ -74,6 +96,21 @@ author_profile: true
 
 ### Patents
 - T. Shu, X. Zhou, H. Zhao, and J. Feng, "The method, device, and storage medium for cloud microphysical parameterization in numerical weather forecasting models."
+
+---
+
+## <span id="awards" style="color:#2056c4">AWARDS & HONORS</span>
+- 2024 Global Climate Innovator Trailblazer, Global Climate Innovation Center
+- 2024 Youth Pioneer & Youth Trainer, Global Alliance of Universities on Climate
+- 2024 Outstanding Undergraduate Student Teaching Fellow
+- 2022-2024 Undergraduate Research Award
+- 2021-2023 Dean’s List Honor, School of Management and Economics
+- 2023 National Outstanding Award (Postgraduate Group, Top Award), China National College Students Competition on Energy Economics
+- 2023 First Prize & Green Angel Excellent Award (Top Award), China Forum on PRME - Youth Forum Speech Competition
+- 2022 National Second Prize (Top 6), CCF “Sinan Cup” Quantum Algorithms
+- 2022 National Outstanding Award (Undergraduate Group, Top Award), China National College Students Competition on Energy Economics
+- 2022 Meritorious Winner, Mathematical Contest in Modeling
+- 2021 Master’s List Awards Scheme, Muse College
 
 ---
 
