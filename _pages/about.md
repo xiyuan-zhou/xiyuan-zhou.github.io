@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2025-12: Co-first-author paper PrimeNash accepted to Nexus (Cell Press).</li>
     <li>2025-10: Paper (Corresponding author) accepted to ECE Forum.</li>
     <li>2025-09: Elected President of NTU EEE Graduate Students’ Club (GSC).</li>
     <li>2025-08: Google Scholar citations surpassed 100.</li>
