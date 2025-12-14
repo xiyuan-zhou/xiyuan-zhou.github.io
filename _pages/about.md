@@ -134,8 +134,8 @@ author_profile: true
   </div>
   <div class="pub-meta">
     <div class="pub-title"><b>An LLM Agent-Based Framework for Analytical Characterization of Nash Equilibria</b></div>
-    <div class="pub-authors">W. Liu, <b>X. Zhou</b>, X. Wang, Y. Cheng, L. Ye, R. Berry, L. Tassiulas, J. Huang, J. Zhao</div>
-    <div class="pub-venue"><em>Nexus</em>, 2025</div>
+    <div class="pub-authors">W. Liu*, <b>X. Zhou*</b>, X. Wang*, Y. Cheng*, L. Ye, R. Berry, L. Tassiulas, J. Huang, J. Zhao — Co-first Author</div>
+    <div class="pub-venue"><em>Nexus</em> (Cell Press), 2025</div>
     <div class="pub-links">
       <a href="https://www.cell.com/nexus/fulltext/S2950-1601(25)00054-3" target="_blank">Paper</a>
     </div>
