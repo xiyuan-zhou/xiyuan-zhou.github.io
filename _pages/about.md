@@ -129,6 +129,20 @@ author_profile: true
 <!-- unified publications list -->
 <div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">Nexus</span>
+    <img class="pub-thumb" src="/images/PrimeNash.png" alt="PrimeNash thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>An LLM Agent-Based Framework for Analytical Characterization of Nash Equilibria</b></div>
+    <div class="pub-authors">W. Liu, <b>X. Zhou</b>, X. Wang, Y. Cheng, L. Ye, R. Berry, L. Tassiulas, J. Huang, J. Zhao</div>
+    <div class="pub-venue"><em>Nexus</em>, 2025</div>
+    <div class="pub-links">
+      <a href="https://www.cell.com/nexus/fulltext/S2950-1601(25)00054-3" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
     <span class="pub-ribbon">PESGM 2025</span>
     <img class="pub-thumb" src="/images/elecbench.png" alt="ElecBench thumbnail">
   </div>
