@@ -134,7 +134,8 @@ author_profile: true
   </div>
   <div class="pub-meta">
     <div class="pub-title"><b>An LLM Agent-Based Framework for Analytical Characterization of Nash Equilibria</b></div>
-    <div class="pub-authors">W. Liu*, <b>X. Zhou*</b>, X. Wang*, Y. Cheng*, L. Ye, R. Berry, L. Tassiulas, J. Huang, J. Zhao — Co-first Author</div>
+    <div class="pub-authors">W. Liu*, <b>X. Zhou*</b>, X. Wang*, Y. Cheng*, L. Ye, R. Berry, L. Tassiulas, J. Huang, J. Zhao</div>
+    <div class="pub-cofirst">* Co-first Author</div>
     <div class="pub-venue"><em>Nexus</em> (Cell Press), 2025</div>
     <div class="pub-links">
       <a href="https://www.cell.com/nexus/fulltext/S2950-1601(25)00054-3" target="_blank">Paper</a>
@@ -342,6 +343,7 @@ html { scroll-behavior: smooth; }
 .pub-links a { margin-right:10px; }
 .pub-badge { background:#eaf1ff; color:#2056c4; padding:2px 6px; border-radius:6px; font-size:0.85em; }
 .pub-note { color:#5a6999; margin:6px 0 10px 0; font-size:0.98em; }
+.pub-cofirst { color:#5a6999; font-size:0.9em; margin:2px 0 4px 0; }
 .pub-filters { display:flex; align-items:center; gap:8px; margin:6px 0 12px 0; position:relative; z-index:999; pointer-events:auto; }
 .pub-filter { border:1px solid #cfe0ff; background:#f4f8ff; color:#2056c4; padding:4px 10px; border-radius:8px; font-weight:600; cursor:pointer; pointer-events:auto; }
 .pub-filter.active { background:#2056c4; color:#fff; border-color:#2056c4; }
