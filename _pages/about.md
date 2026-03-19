@@ -139,11 +139,8 @@ author_profile: true
   </div>
   <div class="pub-meta">
     <div class="pub-title"><b>Large Language Model Applications in Power Systems: A Comprehensive Review and Outlook</b></div>
-    <div class="pub-authors"><b>X Zhou</b>, Y Xu, J Zhao, R Zhang</div>
-    <div class="pub-venue"><em>MPCE</em></div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11417457" target="_blank">Paper</a>
-    </div>
+    <div class="pub-authors"><b>X. Zhou</b>, Y. Xu, J. Zhao, R. Zhang</div>
+    <div class="pub-venue"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11417457" target="_blank">Paper</a></div>
   </div>
 </div>
 
@@ -154,11 +151,8 @@ author_profile: true
   </div>
   <div class="pub-meta">
     <div class="pub-title"><b>LLM-Augmented Multi-Agent System for Trading Behavior Modeling in Coupled Electricity-Carbon Markets</b></div>
-    <div class="pub-authors"><b>X Zhou</b>, Y Cheng, H Lu, W Liu, Y Xu, J Zhao</div>
-    <div class="pub-venue"><em>MPCE</em></div>
-    <div class="pub-links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CbMyJykAAAAJ&sortby=pubdate&citation_for_view=CbMyJykAAAAJ:_kc_bZDykSQC" target="_blank">Paper</a>
-    </div>
+    <div class="pub-authors"><b>X. Zhou</b>, Y. Cheng, H. Lu, W. Liu, Y. Xu, J. Zhao</div>
+    <div class="pub-venue"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CbMyJykAAAAJ&sortby=pubdate&citation_for_view=CbMyJykAAAAJ:_kc_bZDykSQC" target="_blank">Paper</a></div>
   </div>
 </div>
 
