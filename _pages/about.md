@@ -142,6 +142,7 @@ author_profile: true
     <div class="pub-authors"><b>X Zhou</b>, Y Xu, J Zhao, R Zhang</div>
     <div class="pub-venue"><em>MPCE</em></div>
     <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11417457" target="_blank">Paper</a>
     </div>
   </div>
 </div>
@@ -156,6 +157,7 @@ author_profile: true
     <div class="pub-authors"><b>X Zhou</b>, Y Cheng, H Lu, W Liu, Y Xu, J Zhao</div>
     <div class="pub-venue"><em>MPCE</em></div>
     <div class="pub-links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CbMyJykAAAAJ&sortby=pubdate&citation_for_view=CbMyJykAAAAJ:_kc_bZDykSQC" target="_blank">Paper</a>
     </div>
   </div>
 </div>
