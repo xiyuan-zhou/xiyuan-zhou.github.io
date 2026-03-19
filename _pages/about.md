@@ -31,6 +31,8 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-03: My 3MT was selected as NTU EEE GRS audience favourite.</li>
+    <li>2026-02: Paper accepted to IJEPES.</li>
     <li>2026-01: First-author paper accepted to MPCE.</li>
     <li>2026-01: Paper accepted to Energy.</li>
     <li>2025-12: First-author paper accepted to MPCE.</li>
@@ -130,6 +132,34 @@ author_profile: true
 <!-- - Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄 -->
 
 <!-- unified publications list -->
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">MPCE</span>
+    <img class="pub-thumb" src="/images/survey.png" alt="LLM Review thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>Large Language Model Applications in Power Systems: A Comprehensive Review and Outlook</b></div>
+    <div class="pub-authors"><b>X Zhou</b>, Y Xu, J Zhao, R Zhang</div>
+    <div class="pub-venue"><em>MPCE</em></div>
+    <div class="pub-links">
+    </div>
+  </div>
+</div>
+
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">MPCE</span>
+    <img class="pub-thumb" src="/images/coupled%20market.png" alt="Coupled Market thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>LLM-Augmented Multi-Agent System for Trading Behavior Modeling in Coupled Electricity-Carbon Markets</b></div>
+    <div class="pub-authors"><b>X Zhou</b>, Y Cheng, H Lu, W Liu, Y Xu, J Zhao</div>
+    <div class="pub-venue"><em>MPCE</em></div>
+    <div class="pub-links">
+    </div>
+  </div>
+</div>
+
 <div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
     <span class="pub-ribbon">Nexus</span>
@@ -293,6 +323,7 @@ author_profile: true
 ---
 
 ## <span id="awards" style="color:#2056c4">AWARDS & HONORS</span>
+- 2026 3MT Audience Favourite, NTU EEE GRS
 - 2024 Global Climate Innovator Trailblazer, Global Climate Innovation Center
 - 2024 Youth Pioneer & Youth Trainer, Global Alliance of Universities on Climate
 - 2024 Outstanding Undergraduate Student Teaching Fellow
@@ -309,9 +340,10 @@ author_profile: true
 
 ## <span id="speech" style="color:#2056c4">SPEECHES</span>
 
-- 2025-10-17 · IEEE PES SG Postgraduate Workshop 2025, NUS (Singapore)
-- 2024-05-10 · Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus (Hong Kong, China)
-- 2023-05-19 · The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum (Suzhou, China) <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
+- 2025-12 · Seminar at Shenzhen Loop Area Institute
+- 2025-10 · IEEE PES SG Postgraduate Workshop 2025, NUS (Singapore)
+- 2024-05 · Large Language Model for Power System Scenario Generation Considering Weather Condition — Nexus (Hong Kong, China)
+- 2023-05 · The Path to Sustainable Development of Companies under Dual Carbon Targets — UN-PRME Youth Forum (Suzhou, China) <a href="https://www.xjtlu.edu.cn/zh/events/2023/05/the-second-annual-meeting-of-prme" target="_blank">Forum</a> · <a href="https://sme.cuhk.edu.cn/article/2304" target="_blank">News</a>
 
 <style>
 /* News scroll box */
