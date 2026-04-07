@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-04: First-author paper accepted to ACL Findings.</li>
     <li>2026-03: My 3MT was selected as NTU EEE GRS audience favourite.</li>
     <li>2026-02: Paper accepted to IJEPES.</li>
     <li>2026-01: First-author paper accepted to MPCE.</li>
@@ -132,6 +133,21 @@ author_profile: true
 <!-- - Y. Cao, X. Zhou, X. Fei, H. Zhao, W. Liu, and J. Zhao, "Linear-layer-enhanced quantum long short-term memory for carbon price forecasting," <em>Quantum Machine Intelligence</em>, vol. 5, no. 2, pp. 1–12, 2023. 📄 -->
 
 <!-- unified publications list -->
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">ACL</span>
+    <img class="pub-thumb" src="/images/EngiBench.png" alt="EngiBench thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>EngiBench: A Benchmark for Evaluating Large Language Models on Engineering Problem Solving</b></div>
+    <div class="pub-authors"><b>X. Zhou</b>, X. Wang, Y. He, R. Zou, Y. Wu, Y. Cheng, Y. Xie, W. Liu, H. Zhao, Y. Xu, J. Gu, J. Zhao</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2509.17677" target="_blank">Paper</a>
+      <a href="https://github.com/EngiBench/EngiBench" target="_blank">Data&amp;Code</a>
+    </div>
+  </div>
+</div>
+
 <div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
     <span class="pub-ribbon">MPCE</span>
