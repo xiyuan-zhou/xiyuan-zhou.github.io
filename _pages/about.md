@@ -136,21 +136,6 @@ author_profile: true
 <!-- unified publications list -->
 <div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
-    <span class="pub-ribbon">ACL</span>
-    <img class="pub-thumb" src="/images/EngiBench.png" alt="EngiBench thumbnail">
-  </div>
-  <div class="pub-meta">
-    <div class="pub-title"><b>EngiBench: A Benchmark for Evaluating Large Language Models on Engineering Problem Solving</b></div>
-    <div class="pub-authors"><b>X. Zhou</b>, X. Wang, Y. He, R. Zou, Y. Wu, Y. Cheng, Y. Xie, W. Liu, H. Zhao, Y. Xu, J. Gu, J. Zhao</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2509.17677" target="_blank">Paper</a>
-      <a href="https://github.com/AI4Engi/EngiBench" target="_blank">Data&amp;Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-item" data-topic="LLM">
-  <div class="pub-thumb-wrap">
     <span class="pub-ribbon">ICML</span>
     <img class="pub-thumb" src="/images/EngiAgent.png" alt="EngiAgent thumbnail">
   </div>
@@ -160,6 +145,21 @@ author_profile: true
     <div class="pub-links">
       <a href="https://openreview.net/forum?id=nukmGP904w" target="_blank">Paper</a>
       <a href="https://github.com/AI4Engi/EngiAgent" target="_blank">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">ACL</span>
+    <img class="pub-thumb" src="/images/EngiBench.png" alt="EngiBench thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>EngiBench: A Benchmark for Evaluating Large Language Models on Engineering Problem Solving</b></div>
+    <div class="pub-authors"><b>X. Zhou</b>, X. Wang, Y. He, R. Zou, Y. Wu, Y. Cheng, Y. Xie, W. Liu, H. Zhao, Y. Xu, J. Gu, J. Zhao</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2509.17677" target="_blank">Paper</a>
+      <a href="https://github.com/AI4Engi/EngiBench" target="_blank">Data&amp;Code</a>
     </div>
   </div>
 </div>
