@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-05: First-author paper accepted to ICML.</li>
     <li>2026-04: First-author paper accepted to ACL Findings.</li>
     <li>2026-03: My 3MT was selected as NTU EEE GRS audience favourite.</li>
     <li>2026-02: Paper accepted to IJEPES.</li>
@@ -143,7 +144,22 @@ author_profile: true
     <div class="pub-authors"><b>X. Zhou</b>, X. Wang, Y. He, R. Zou, Y. Wu, Y. Cheng, Y. Xie, W. Liu, H. Zhao, Y. Xu, J. Gu, J. Zhao</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2509.17677" target="_blank">Paper</a>
-      <a href="https://github.com/EngiBench/EngiBench" target="_blank">Data&amp;Code</a>
+      <a href="https://github.com/AI4Engi/EngiBench" target="_blank">Data&amp;Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">ICML</span>
+    <img class="pub-thumb" src="/images/EngiAgent.png" alt="EngiAgent thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>EngiAgent: Fully Connected Coordination of LLM Agents for Solving Open-ended Engineering Problems with Feasible Solutions</b></div>
+    <div class="pub-authors"><b>X. Zhou</b>, R. Zou, X. Wang, Y. Cheng, Y. Xu, J. Zhao, J. Gu</div>
+    <div class="pub-links">
+      <a href="https://openreview.net/forum?id=nukmGP904w" target="_blank">Paper</a>
+      <a href="https://github.com/AI4Engi/EngiAgent" target="_blank">Code</a>
     </div>
   </div>
 </div>
