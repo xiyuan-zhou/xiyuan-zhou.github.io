@@ -143,7 +143,7 @@ author_profile: true
     <div class="pub-title"><b>EngiAgent: Fully Connected Coordination of LLM Agents for Solving Open-ended Engineering Problems with Feasible Solutions</b></div>
     <div class="pub-authors"><b>X. Zhou</b>, R. Zou, X. Wang, Y. Cheng, Y. Xu, J. Zhao, J. Gu</div>
     <div class="pub-links">
-      <a href="https://openreview.net/forum?id=nukmGP904w" target="_blank">Paper</a>
+      <a href="https://arxiv.org/abs/2605.02289" target="_blank">Paper</a>
       <a href="https://github.com/AI4Engi/EngiAgent" target="_blank">Code</a>
     </div>
   </div>
