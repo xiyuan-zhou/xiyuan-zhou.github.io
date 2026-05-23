@@ -9,7 +9,7 @@ author_profile: true
 <!-- ===== TOP SECTION: PHOTO + INTRO + CONTACT ===== -->
 <div align="center" style="margin-bottom:2rem;">
   <h1 style="margin:1rem 0 0.5rem 0; color:#2056c4">Xiyuan Zhou (周茜缘)</h1>
-  <p style="color:#2056c4;font-weight:600;margin:0.2rem 0 0.6rem 0;">Ph.D. Student @ NTU EEE</p>
+  <p style="color:#2056c4;font-weight:600;margin:0.2rem 0 0.6rem 0;">Ph.D. Candidate @ NTU EEE</p>
   <p style="font-size:1.05em;max-width:700px;margin:0.6rem auto 0.3rem auto; color:#0f1c36; line-height:1.55;">
     I am currently a Ph.D. candidate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, supervised by <a href="https://scholar.google.com/citations?user=ZAhePQ4AAAAJ&hl=en" target="_blank">Prof. Yan Xu</a> and <a href="https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en" target="_blank">Prof. Junhua Zhao</a>, since 2024. I am broadly interested in LLMs, AI4E, power systems, and energy markets, with an emphasis on bridging theory and real-world applications in electricity and carbon markets.
   </p>
@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-05: I passed my QE and became a PhD candidate.</li>
     <li>2026-05: First-author paper accepted to ICML.</li>
     <li>2026-04: First-author paper accepted to ACL Findings.</li>
     <li>2026-03: My 3MT was selected as NTU EEE GRS audience favourite.</li>
