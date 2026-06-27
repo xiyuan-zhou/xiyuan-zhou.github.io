@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-06: Paper accepted to Renewable Energy.</li>
     <li>2026-06: Paper (Corresponding author) accepted to APPEEC.</li>
     <li>2026-05: I passed my QE and became a PhD candidate.</li>
     <li>2026-05: First-author paper accepted to ICML.</li>
