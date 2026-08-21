@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-08: First-author paper accepted to EMNLP Main.</li>
     <li>2026-08: Paper (Corresponding author) accepted to IECON.</li>
     <li>2026-06: Paper accepted to Renewable Energy.</li>
     <li>2026-06: Paper (Corresponding author) accepted to APPEEC.</li>
