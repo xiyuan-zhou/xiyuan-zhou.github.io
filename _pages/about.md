@@ -141,6 +141,21 @@ author_profile: true
 <!-- unified publications list -->
 <div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
+    <span class="pub-ribbon">EMNLP 2026</span>
+    <img class="pub-thumb" src="/images/RePro.png" alt="RePro thumbnail">
+  </div>
+  <div class="pub-meta">
+    <div class="pub-title"><b>RePro: Proof-Verified Benchmark Rewriting for Reliable Evaluation of LLM Mathematical Problem Solving</b></div>
+    <div class="pub-authors"><b>X. Zhou</b>, Z. Li, X. Wang, Y. He, Y. Wu, Y. Cheng, Y. Xu, J. Zhao, J. Gu</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2609.00062" target="_blank">Paper</a>
+      <a href="https://github.com/AI4Engi/RePro" target="_blank">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item" data-topic="LLM">
+  <div class="pub-thumb-wrap">
     <span class="pub-ribbon">ICML</span>
     <img class="pub-thumb" src="/images/EngiAgent.png" alt="EngiAgent thumbnail">
   </div>
