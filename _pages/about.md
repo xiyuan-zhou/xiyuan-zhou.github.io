@@ -141,7 +141,7 @@ author_profile: true
 <!-- unified publications list -->
 <div class="pub-item" data-topic="LLM">
   <div class="pub-thumb-wrap">
-    <span class="pub-ribbon">EMNLP 2026</span>
+    <span class="pub-ribbon">EMNLP</span>
     <img class="pub-thumb" src="/images/RePro.png" alt="RePro thumbnail">
   </div>
   <div class="pub-meta">
