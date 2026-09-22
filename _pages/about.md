@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box">
   <ul class="news-list">
+    <li>2026-09: Paper accepted to ISGT Asia.</li>
     <li>2026-09: First-author paper accepted to SPIES (IEEE IAS).
     <li>2026-08: First-author paper accepted to EMNLP Main Conference.</li>
     <li>2026-08: Paper (Corresponding author) accepted to IECON.</li>
