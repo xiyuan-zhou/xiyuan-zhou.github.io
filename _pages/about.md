@@ -33,7 +33,7 @@ author_profile: true
   <ul class="news-list">
     <li>2026-10: I am selected as Top Reviewer of NeurIPS 2026.</li>
     <li>2026-09: Paper accepted to ISGT Asia.</li>
-    <li>2026-09: First-author paper accepted to SPIES (IEEE IAS).
+    <li>2026-09: First-author paper accepted to SPIES (IEEE IAS).</li>
     <li>2026-08: First-author paper accepted to EMNLP Main Conference.</li>
     <li>2026-08: Paper (Corresponding author) accepted to IECON.</li>
     <li>2026-06: Paper accepted to Renewable Energy.</li>
