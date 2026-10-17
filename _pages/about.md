@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box" markdown="0">
   <ul class="news-list">
+    <li>2026-10: Paper accepted to IEEE Transactions On Industry Applications (TIA).</li>
     <li>2026-10: I am selected as Top Reviewer of NeurIPS 2026.</li>
     <li>2026-09: Paper accepted to ISGT Asia.</li>
     <li>2026-09: First-author paper accepted to SPIES (IEEE IAS).</li>
