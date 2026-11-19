@@ -31,6 +31,7 @@ author_profile: true
 ## <span id="news" style="color:#2056c4">NEWS</span>
 <div class="news-box" markdown="0">
   <ul class="news-list">
+    <li>2026-11: I was awarded the NTU EEE Research Excellence Travel Grant 2026 (10 recipients school-wide).</li>
     <li>2026-10: Paper accepted to IEEE Transactions on Industry Applications (TIA).</li>
     <li>2026-10: I am selected as Top Reviewer of NeurIPS 2026.</li>
     <li>2026-09: Paper accepted to ISGT Asia.</li>
